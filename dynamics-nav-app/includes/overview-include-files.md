@@ -59,7 +59,7 @@ Diese Tabelle enthält die EINSCHLIESSUNGSausdrücke, die mit dem Inhalt der Ein
 |`[!INCLUDE[nav_setup_md](includes/nav_setup_md.md)]`|Microsoft Dynamics NAV 2017 Einrichtung|
 |`[!INCLUDE[nav_shell_md](includes/nav_shell_md.md)]`|Microsoft Dynamics NAV 2017 Verwaltungsshell|
 |`[!INCLUDE[nav_tablet_md](includes/nav_tablet_md.md)]`|Microsoft Dynamics NAV Tabletclient|
-|`[!INCLUDE[nav_uni_app_md](includes/nav_uni_app_md.md)]`|Microsoft Dynamics NAV-Einheits-App|
+|`[!INCLUDE[nav_uni_app_md](includes/nav_uni_app_md.md)]`|Microsoft Dynamics NAV-Univeral-App|
 |`[!INCLUDE[nav_web_md](includes/nav_web_md.md)]`|Microsoft Dynamics NAV Webclient|
 |`[!INCLUDE[nav_web_server_md](includes/nav_web_server_md.md)]`|Microsoft Dynamics NAV Webserverkomponenten|
 |`[!INCLUDE[nav_windows_md](includes/nav_windows_md.md)]`|Microsoft Dynamics NAV Windows Client|
