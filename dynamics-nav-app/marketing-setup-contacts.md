@@ -16,9 +16,9 @@ ms.lasthandoff: 06/26/2017
 
 ---
 # <a name="prepare-for-setting-up-contacts"></a>Vorbereitung auf das Einrichten von Kontakten
-Beim Erstellen von Kontakten können Sie spezifische Informationen wie die Branche, der die Kontaktunternehmen angehören, oder die Geschäftsbeziehung, die mit den Kontakten besteht, eingeben.
+Beim Erstellen von Kontakten können Sie spezifische Informationen wie die Branche, der dem Unternehmenskontakt angehören, oder die Geschäftsbeziehung, die mit den Kontakten besteht, eingeben.
 
-Vor dem Erstellen von Kontakten und dem Erfassen von Details zur jeweiligen Geschäftsbeziehung müssen unterschiedliche Codes eingerichtet werden, mit deren Hilfe die Informationen den Kontaktunternehmen und -personen zugeordnet werden. Codes können für Verteiler, Branchen, Geschäftsbeziehungen, Internetfavoriten, Positionen und Verantwortlichkeiten eingerichtet werden.
+Vor dem Erstellen von Kontakten und dem Erfassen von Details zur jeweiligen Geschäftsbeziehung müssen unterschiedliche Codes eingerichtet werden, mit deren Hilfe die Informationen des Unternehmenskontakts und der Personenkontakte zugeordnet werden. Codes können für Verteiler, Branchen, Geschäftsbeziehungen, Internetfavoriten, Positionen und Verantwortlichkeiten eingerichtet werden.
 
 Sind diese Informationen eingerichtet, gestaltet sich das Erstellen von Kontakten wesentlich organisierter. Dank der Möglichkeit, alle Kontakte auf der Grundlage einer Gruppe zu suchen, wird die Arbeit deutlich effizienter. Die Informationen stehen allen Gruppen innerhalb des Unternehmens zur Verfügung, was eine erfolgreichere Kommunikation mit den Kontakten ermöglicht.
 
@@ -26,11 +26,11 @@ Die folgende Tabelle enthält eine Abfolge von Aufgaben sowie Links zu den entsp
 
 |Aufgabe |Siehe |
 |---|----|
-|Einrichten der Geschäftsbeziehung zu Kontakten – beispielsweise Interessent, Bank, Berater oder Dienstleister|[Einrichten von Geschäftsbeziehungen für Kontaktunternehmen](marketing-business-relations.md)|
-|Einrichten der Branche, zu der die Kontakte gehören – beispielsweise Einzelhandelsbranche oder Automobilbranche|[Einrichten von Branchen für Kontaktunternehmen](marketing-industry-groups.md)|
-|Einrichten von Verteilern zum Identifizieren von Kontaktgruppen, denen die gleichen Informationen zugehen sollen|[Einrichten von Verteilern für Kontaktunternehmen](marketing-mailing-groups.md)|
-|Einrichten der Verantwortlichkeiten von Kontaktpersonen|[Einrichten von Verantwortlichkeiten für Kontakte](marketing-job-responsibilities.md)|
-|Einrichten der gewünschten Positionen für Kontaktpersonen|[Positionen für Kontakte einrichten](marketing-organizational-levels.md)|
+|Einrichten der Geschäftsbeziehung zu Kontakten – beispielsweise Interessent, Bank, Berater oder Dienstleister|[Einrichten von Geschäftsbeziehungen für Unternehmenskontakte](marketing-business-relations.md)|
+|Einrichten der Branche, zu der die Kontakte gehören – beispielsweise Einzelhandelsbranche oder Automobilbranche|[Einrichten von Branchen für Unternehmenskontakte](marketing-industry-groups.md)|
+|Einrichten von Verteilern zum Identifizieren von Kontaktgruppen, denen die gleichen Informationen zugehen sollen|[Einrichten von Verteilern für Unternehmenskontakte](marketing-mailing-groups.md)|
+|Einrichten der Verantwortlichkeiten von Personenkontakten|[Einrichten von Verantwortlichkeiten für Kontakte](marketing-job-responsibilities.md)|
+|Einrichten der gewünschten Positionen für Personenkontakten|[Positionen für Kontakte einrichten](marketing-organizational-levels.md)|
 |Einrichten von Internetfavoriten (Suchmaschinen und Websites), die für die Internetrecherche von Kontaktinformationen verwendet werden können|[Internetfavoriten für Kontakte einrichten](marketing-web-sources.md)|
 
 ##<a name="see-also"></a>Siehe auch

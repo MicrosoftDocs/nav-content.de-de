@@ -1,5 +1,5 @@
 ---
-title: "Einrichten von Geschäftsbeziehungen für Kontaktunternehmen"
+title: "Einrichten von Geschäftsbeziehungen für Unternehmenskontakte"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,10 +15,10 @@ ms.contentlocale: de-de
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="set-up-business-relations-on-contact-companies"></a>Einrichten von Geschäftsbeziehungen für Kontaktunternehmen
+# <a name="set-up-business-relations-on-contact-companies"></a>Einrichten von Geschäftsbeziehungen für Unternehmenskontakte
 Sie können Geschäftsbeziehungen verwenden, um die Geschäftsbeziehung anzuzeigen, die Sie mit Ihren Kontakten haben wie z. B. Interessent, Bank, Berater und Dienstleister usw. pflegen.
 
-Die Nutzung von Geschäftsbeziehungen zu Kontakten ist ein zwei Schritte umfassender Prozess. Zuerst definieren Sie den Geschäftsbeziehungscode. Sie müssen diesen Schritt nur einmal für jede Geschäftsbeziehung ausführen. Sobald Sie einen Geschäftsbeziehungscode haben, können Sie den Code zu den Kontaktunternehmen zuweisen.
+Die Nutzung von Geschäftsbeziehungen zu Kontakten ist ein zwei Schritte umfassender Prozess. Zuerst definieren Sie den Geschäftsbeziehungscode. Sie müssen diesen Schritt nur einmal für jede Geschäftsbeziehung ausführen. Sobald Sie einen Geschäftsbeziehungscode haben, können Sie den Code zu den Unternehmenskontakt zuweisen.
 
 **Hinweis**: Wenn Sie planen, Ihre Kontakte mit Debitoren, Kreditoren oder Bankkonten in anderen Teilen der Anwendung zu synchronisieren, können Sie für sie eine Geschäftsbeziehung erstellen.
 
@@ -44,5 +44,5 @@ Die Anzahl der Geschäftsbeziehungen, die Sie dem Kontakt auf der Kontaktkarte z
 Nachdem Sie Ihren Kontakten Geschäftsbeziehungen zugeordnet haben, können Sie diese Informationen verwenden, um Kontakte für Ihre Segmente auszuwählen. Weitere Informationen finden Sie unter [Vorgehensweise: Hinzufügen von Kontakten zu Segmenten](marketing-add-contact-segment.md).
 
 ##<a name="see-also"></a>Siehe auch
-[Erstellen von Kontaktunternehmen](marketing-create-contact-companies.md)
+[Erstellen von Unternehmenskontakten](marketing-create-contact-companies.md)
 

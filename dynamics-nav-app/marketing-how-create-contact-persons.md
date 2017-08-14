@@ -1,5 +1,5 @@
 ---
-title: Anlegen von Kontaktpersonen
+title: Anlegen von Personenkontakte
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,10 +15,10 @@ ms.contentlocale: de-de
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="create-contact-persons"></a>Anlegen von Kontaktpersonen
-Sie können für jeden Kontakt eine Kontaktkarte erstellen, der für das Unternehmen arbeitet, mit dem Sie Geschäfte machen. Für jedes Kontaktunternehmen können Sie beliebig viele Kontaktpersonen eingeben. Außerdem können Sie Kontaktkarten für die Personen erstellen, die Sie als unabhängig speichern möchten.
+# <a name="create-contact-persons"></a>Anlegen von Personenkontakte
+Sie können für jeden Kontakt eine Kontaktkarte erstellen, der für das Unternehmen arbeitet, mit dem Sie Geschäfte machen. Für jedes Unternehmenskontakt können Sie beliebig viele Personenkontakte eingeben. Außerdem können Sie Kontaktkarten für die Personen erstellen, die Sie als unabhängig speichern möchten.
 
-**Tipp**: Bevor Sie einen Kontakt anlegen, sollten Sie die Einstellungen unter **Übernahme** im Fenster **Marketing & Vertrieb Einr.** überprüfen. Die Einrichtung der Übernahme ermöglicht das automatischer Kopieren von gleichen Informationen zu Kontaktunternehmen und Kontaktpersonen (z. B. Adressdaten) vom Kontaktunternehmen zur Kontaktperson beim Erstellen einer Kontaktperson für ein erfasstes Kontaktunternehmen.
+**Tipp**: Bevor Sie einen Kontakt anlegen, sollten Sie die Einstellungen unter **Übernahme** im Fenster **Marketing & Vertrieb Einr.** überprüfen. Die Einrichtung der Übernahme ermöglicht das automatischer Kopieren von gleichen Informationen zu Unternehmenskontakten und Personenkontakten (z. B. Adressdaten) vom Unternehmenskontakt zur Personenkontakt beim Erstellen eines Personenkontakts für ein erfasstes Unternehmenskontakt.
 
 ## <a name="to-create-a-contact-card-for-a-person"></a>So erstellen Sie eine Kontaktkarte für eine Person
 1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Kontakte** ein. Wählen Sie dann den zugehörigen Link aus.
@@ -35,6 +35,6 @@ Sie können für jeden Kontakt eine Kontaktkarte erstellen, der für das Unterne
 [Einrichten von Marketing und der Kontaktverwaltung](marketing-setup-marketing.md)  
 [Einrichten von Verteilergruppen für Kontakte](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)
 [Einrichten von Verantwortlichkeiten für Kontakte](marketing-job-responsibilities.md)  
-[Einrichten von Position für Kontaktpersonen](marketing-organizational-levels.md)  
+[Einrichten von Positionen für Personenkontakte](marketing-organizational-levels.md)  
 [Synchronisieren von Kontakten mit Debitoren, Kreditoren und Bankkonten](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 

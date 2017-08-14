@@ -1,5 +1,5 @@
 ---
-title: "Einrichten von Branchen für Kontaktunternehmen"
+title: "Einrichten von Branchen für Unternehmenskontakte"
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,10 +15,10 @@ ms.contentlocale: de-de
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="set-up-industry-groups-for-contact-companies"></a>Einrichten von Branchen für Kontaktunternehmen
+# <a name="set-up-industry-groups-for-contact-companies"></a>Einrichten von Branchen für Unternehmenskontakte
 Branchen werden verwendet, um die Branche anzugeben, zu der Ihre Kontakte gehören z. B. die Einzelhandelsbranche und die Automobilbranche.
 
-Die Nutzung von Branchen zu Kontakten ist ein zwei Schritte umfassender Prozess. Zuerst definieren Sie den Branchenscode. Sie müssen diesen Schritt nur einmal für jede Branche ausführen. Sobald Sie einen Branchencode haben, können Sie den Code zu den Kontaktunternehmen zuweisen.
+Die Nutzung von Branchen zu Kontakten ist ein zwei Schritte umfassender Prozess. Zuerst definieren Sie den Branchenscode. Sie müssen diesen Schritt nur einmal für jede Branche ausführen. Sobald Sie einen Branchencode haben, können Sie den Code zu dem Unternehmenskontakt zuweisen.
 
 **Hinweis**: Wenn Sie planen, Ihre Kontakte mit Debitoren, Kreditoren oder Bankkonten in anderen Teilen der Anwendung zu synchronisieren, können Sie für sie eine Geschäftsbeziehung erstellen.
 
@@ -42,5 +42,5 @@ Die Anzahl der Branchen, die Sie dem Kontakt zugeordnet haben, wird im Feld **An
 Nachdem Sie Ihren Kontakten Branchen zugeordnet haben, können Sie diese Informationen verwenden, um Kontakte für Ihre Segmente auszuwählen. Weitere Informationen finden Sie unter [Vorgehensweise: Hinzufügen von Kontakten zu Segmenten](marketing-add-contact-segment.md).
 
 ##<a name="see-also"></a>Siehe auch
-[Erstellen von Kontaktunternehmen](marketing-create-contact-companies.md)
+[Erstellen von Unternehmenskontakten](marketing-create-contact-companies.md)
 

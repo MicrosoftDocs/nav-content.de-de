@@ -36,5 +36,5 @@ Außerdem können Sie alternative Adressen auf die gleiche Art in dem Fenster Ko
 Wiederholen Sie diese Schritte, um beliebig viele Gültigkeiten einzurichten.
 
 ##<a name="see-also"></a>Siehe auch
-[Erstellen von Kontaktunternehmen](marketing-create-contact-companies.md)
+[Erstellen von Unternehmenskontakten](marketing-create-contact-companies.md)
 

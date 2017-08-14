@@ -1,5 +1,5 @@
 ---
-title: "Einrichten von Internetfavoriten für Kontaktunternehmen"
+title: "Einrichten von Internetfavoriten für Unternehmenskontakte"
 author: edupont04
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,10 +15,10 @@ ms.contentlocale: de-de
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="set-up-web-sources-for-contact-companies"></a>Einrichten von Internetfavoriten für Kontaktunternehmen
+# <a name="set-up-web-sources-for-contact-companies"></a>Einrichten von Internetfavoriten für Unternehmenskontakte
 Sie können Ihren Kontakten Internetfavoriten (z. B. Suchmaschinen und Websites) zuordnen, um anzuzeigen, wo Sie im Internet nach Informationen über die Kontakte suchen möchten. Wenn Sie Internetfavoriten zuordnen, legen Sie fest, welche Suchmaschine und welchen Suchbegriff die Anwendung bei der Suche nach der gewünschten Information verwendet.
 
-Die Nutzung von Internetfavoriten zu Kontakten ist ein zwei Schritte umfassender Prozess. Zuerst definieren Sie den Internetfavoritencode. Sie müssen diesen Schritt nur einmal für jeden Internetfavoriten ausführen. Sobald Sie einen Internetfavoritencode haben, können Sie den Code zu den Kontaktpersonen zuweisen.
+Die Nutzung von Internetfavoriten bei Kontakten ist ein zwei Schritte umfassender Prozess. Zuerst definieren Sie den Internetfavoritencode. Sie müssen diesen Schritt nur einmal für jeden Internetfavoriten ausführen. Sobald Sie einen Internetfavoritencode haben, können Sie den Code zu den Personenkontakten zuweisen.
 
 ## <a name="define-a-web-source-code"></a>Definieren eines Internetfavoritencodes
 1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Internetfavoriten** ein. Wählen Sie dann den zugehörigen Link aus.
@@ -29,7 +29,7 @@ Die Nutzung von Internetfavoriten zu Kontakten ist ein zwei Schritte umfassender
 
 Wiederholen Sie diese Schritte, um weitere Internetfavoriten einzurichten.
 
-## <a name="assign-web-sources-to-a-contact-company"></a>Zuordnen von Internetfavoriten zu einem Kontaktunternehmen
+## <a name="assign-web-sources-to-a-contact-company"></a>Zuordnen von Internetfavoriten zu einem Unternehmenskontakt
 Wenn Sie Internetfavoriten zuordnen, legen Sie fest, welche Suchmaschine und welchen Suchbegriff die Anwendung bei der Suche nach der gewünschten Information verwendet.
 
 1. Öffnen Sie den Kontakt.
@@ -42,5 +42,5 @@ Wiederholen Sie diese Schritte, um weitere Internetfavoriten zuzuordnen.
 Außerdem können Sie Internetfavoriten auf die gleiche Art in dem Fenster **Kontaktübersicht** zuordnen.
 
 ##<a name="see-also"></a>Siehe auch
-[Erstellen von Kontaktunternehmen](marketing-create-contact-companies.md)
+[Erstellen von Unternehmenskontakten](marketing-create-contact-companies.md)
 
