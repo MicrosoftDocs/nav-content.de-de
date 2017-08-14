@@ -19,10 +19,11 @@ ms.lasthandoff: 06/26/2017
 # <a name="how-to-change-the-role-center"></a>So gehts: Ändern des Rollencenters
 Die Startseite bildet den Hauptzugang zu Dynamics NAV. Dort erhalten Sie einen Überblick über die täglichen Aufgaben und ihren Status. Der Zugriff auf die Aufgaben, die Sie ausführen, erfolgt häufig über die Kacheln im Inhaltsbereich, den Navigationsbereich links und über Aktionen im Menüband.
 
-Der Inhalt der Startseite basiert auf dem ausgewählten Rollencenter. Das Standardrollencenter für Dynamics NAV ist **Geschäftsführer**. Sie können dies aber ändern und zwischen einer Reihe von Rollencentern auswählen.
+Der Inhalt der Startseite basiert auf dem ausgewählten Rollencenter. Das Standardrollencenter für Dynamics NAV ist **Verkaufsauftragverarbeitung**. Sie können dies aber ändern und zwischen einer Reihe von Rollencentern auswählen.
 
 ## <a name="to-change-role-center"></a>So ändern Sie ein Rollencenter
-1. Wählen Sie in der oberen rechten Ecke im Menü **Einstellungen** **Meine Einstellungen** aus.
+1. **Web Client:** Wählen Sie in der oberen rechten Ecke im Menü **Einstellungen** > **Meine Einstellungen** aus.
+**Windows Client:** Suche Sie in der oberen rechten Ecke im Suchfeld nach **Meine Einstellungen**.
 2. Wählen Sie im Fenster **Meine Einstellungen** im Feld **Rollencenter** das Rollencenter aus, das Sie als Standard festlegen möchten. Wählen Sie beispielsweise **Buchhalter/in** aus.
 3. Wählen Sie die Schaltfläche **OK** aus.
 4. Melden Sie sich von Dynamics NAV ab und anschließend wieder an, um die Änderungen zu übernehmen.

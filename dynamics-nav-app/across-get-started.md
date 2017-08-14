@@ -18,18 +18,18 @@ ms.lasthandoff: 06/26/2017
 
 # <a name="welcome-to-dynamics-nav"></a>Willkommen bei Dynamics NAV
 
-Dynamics NAV ist eine Unternehmensverwaltungslösung für kleine und mittelständische Organisationen und dient zum Automatisieren und Optimieren von Geschäftsprozessen. Das Demonstrationsunternehmen enthält Beispieldaten, aber Sie können z. B. auch eigene Verkaufsbelege erzeugen oder ein Bankkonto einrichten.  
+Dynamics NAV ist eine Unternehmensverwaltungslösung für kleine und mittelständische Unternehmen und dient zur Automatisierung und Optimierung von Geschäftsprozessen. Das Demo-Unternehmen enthält Beispieldaten, aber Sie können z. B. auch eigene Verkaufsbelege anlegen oder ein Bankkonto einrichten.  
 
-Im Geschäftsinhaberrollencenter finden Sie die Aktion **Unterstützte Einrichtung und Aufgaben**. Hier sehen Sie eine Übersicht der unterstützten Einrichtung , die Ihnen bei den ersten Schritten helfen kann. Im Fenster **Unterstützte Einrichtung** finden Sie Folgendes:
+Im Geschäftsinhaberrollencenter finden Sie die Aktion **Unterstützte Einrichtung und Aufgaben**. Hier sehen Sie eine Übersicht der unterstützten Einrichtung, die Ihnen bei den ersten Schritten helfen kann. Im Fenster **Unterstützte Einrichtung** finden Sie Folgendes:
 
 |Unterstützte Einrichtung           |Beschreibung                                                                                      |
 |-------------------------|-------------------------------------------------------------------------------------------------|
-|Mandant einrichten           |Erstellt ein neues Testunternehmen, für das Sie Daten eingeben und mit dem Sie Dynamics NAV testen können. Wenn Sie die Erste-Schritte-Tour durchlaufen haben, ist dieses möglicherweise bereits **Abgeschlossen**. |
+|Mandant einrichten           |Erstellt ein neuen Testmandant, für den Sie Daten eingeben und mit dem Sie Dynamics NAV testen können. Wenn Sie die Erste-Schritte-Tour durchlaufen haben, ist dieses möglicherweise bereits **Abgeschlossen**. |
 |Geschäftsdaten migrieren    |Lässt Sie Ihre vorhandenen Firmendaten wie Debitoren, Kreditoren und Artikel aus Excel oder aus Quickbooks importieren.|
 |Verkaufssteuer einrichten         |Lässt Sie mit Standard-Steuergruppen beginnen und Steuergebietscodes zuweisen, die Sie den Debitoren und Kreditoren zuordnen können, damit die Verkaufssteuer in Verkaufs- oder Einkaufsbelegen automatisch berechnet wird.|
 |E-Mail einrichten             |Zeigt Ihnen, wie Sie E-Mails beispielsweise direkt aus Verkaufsaufträgen oder Kontakten in Dynamics NAV versenden.|
 |Office-Add-ins einrichten    |Richtet die Möglichkeit ein, Dynamics NAV direkt über Outlook zu verwenden und zu starten.|
-|Genehmigungsworkflow einricht.|Richtet die Möglichkeit ein, Genehmigungsworkflows zu erstellen, damit ein Genehmiger automatisch benachrichtigt wird, wenn ein Benutzer versucht, bestimmte Werte in Belegen, Buch.-Bl.-Zeilen oder Karten zu erstellen oder zu ändern, wie etwa einen Betrag über dem festgelegten Grenzwert.|
+|Genehmigungsworkflow einricht.|Richtet die Möglichkeit ein, Genehmigungsworkflows zu erstellen, damit ein Genehmiger automatisch benachrichtigt wird, wenn ein Benutzer versucht, bestimmte Werte in Belegen, Buch.-Blatt Zeilen oder Stammdaten zu erstellen oder zu ändern, wie etwa einen Betrag über dem festgelegten Grenzwert.|
 |E-Mail-Protokollierung einr.     |Richtet die Funktion ein, E-Mail-Korrespondenz im Dynamics NAV zu protokollieren, um Aktivitäten zu verfolgen.|
 |Dynamics CRM-Verbindung einrichten|Richtet eine Verbindung mit Dynamics CRM ein, die Ihnen erlaubt, Daten wie Kontakte und Verkaufsauftragsinformationen zu synchronisieren.|
 

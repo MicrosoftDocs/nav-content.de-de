@@ -22,9 +22,9 @@ Wenn Sie Daten auf Seiten in Dynamics NAV eingeben, werden bestimmte Felder mit 
 Selbst wenn das Feld ein rotes Sternchen enthält, sind Sie nicht gezwungen, das Feld auszufüllen, bevor Sie mit anderen Feldern fortfahren oder die Seite schließen. Das rote Sternchen dient nur als Erinnerung, dass Sie am Beenden eines bestimmten Prozesses gehindert werden. 
 
 ## <a name="examples"></a>Beispiele 
-Im Fenster **Debitorenkarte** wird im Feld **Name** und in den drei **Buchungsgruppengebieten** das rote Sternchen angezeigt, um anzugeben, dass Sie eine Verkaufstransaktion für den Debitor nur dann buchen können, wenn diese ausgefüllt werden.
+Im Fenster **Debitorenkarte** wird im Feld **Name** und in den drei **Buchungsgruppen** das rote Sternchen angezeigt, um anzugeben, dass Sie eine Verkaufstransaktion für den Debitor nur dann buchen können, wenn diese ausgefüllt werden.
 
-Im Fenster **Artikelkarte** wird das rote Sternchen auf **Beschreibung** und den Basiseinheitencode Feldern angezeigt, um anzugeben, dass Sie den Artikel in einer Belegzeile (beispielsweise in einem Verkaufsauftrag) nur dann eingeben können, wenn auch diese Felder ausgefüllt werden.
+Im Fenster **Artikelkarte** wird das rote Sternchen bei den Feldern **Beschreibung** und den **Basiseinheitencode** angezeigt, um anzugeben, dass Sie den Artikel in einer Belegzeile (beispielsweise in einem Verkaufsauftrag) nur dann eingeben können, wenn diese Felder ausgefüllt werden.
 
 ## <a name="see-also"></a>Siehe auch
 [Arbeiten mit Dynamics NAV](ui-work-product.md) 

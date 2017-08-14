@@ -17,9 +17,9 @@ ms.lasthandoff: 06/26/2017
 ---
     
 # <a name="post-documents-and-journals"></a>Journale und Dokumente buchen
-Das Buchen stellt die Buchhaltungsaktion vom Aufzeichnen von Geschäftstransaktionen in verschiedenen Mandantensachkontos dar.
+Das Buchen stellt die Buchhaltungsaktion beim Aufzeichnen von Geschäftstransaktionen in verschiedenen Mandantensachkontos dar.
 
-Nahezu jeder Beleg und jedes Buchungsblatt im Dynamics NAV bietet eine **Buchungs** gruppe an, aus der Sie zwischen verschiedenen Buchungsaktionen, wie **Buchen**, **Buchungsvorschau**, **Buchen und Senden**, **Buchen und E-Mail** auswählen können.
+Nahezu jeder Beleg und jedes Buch.-Blatt im Dynamics NAV bietet eine **Buchung**sgruppe an, aus der Sie zwischen verschiedenen Buchungsaktionen, wie **Buchen**, **Buchungsvorschau**, **Buchen und Senden**, **Buchen und E-Mail** auswählen können.
 
 Die folgende Tabelle enthält Informationen zu verwandten Aufgaben wie Links zu den entsprechenden Themen, in denen diese Aufgaben erläutert werden.
 
