@@ -35,8 +35,8 @@ Das Fenster **Steuerdetails** zeigt verschiedene Kombinationen von Verkaufssteue
 Wenn Sie in den USA einem Debitor an einem Lagerort verkaufen, in dem Sie keinen *Status* oder gültigen Lagerort haben, erheben Sie keine Verkaufssteuer. Bei Lagerorten, in denen Sie keinen Status haben, ist sichergestellt, dass sowohl die Felder **Steuer unter dem Minimum** und die **Steuer über dem Maximum** 0.00 aufweisen.  
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
-[Finanzen Einrichten](finance-setup-setup-finance-setup.md)  
+[Finanzen](Finance.md)  
+[Finanzen Einrichten](finance-setup-finance.md)  
 [Verkaufssteuer sowie Steuern auf Waren und Dienstleistungen in Kanada](ca-finance-setup-tax.md)  
 [Einfaches Einrichten der Verkaufssteuer](https://madeira.microsoft.com/en-us/blog/sales-tax-setup-made-easy)  
 

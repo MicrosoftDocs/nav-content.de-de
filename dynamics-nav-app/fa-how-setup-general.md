@@ -108,6 +108,6 @@ Falls die Anlagen nicht in der Finanzbuchhaltung integriert sind, können Sie di
 ## <a name="see-also"></a>Siehe auch
 [Anlageneinrichtung](fa-setup.md)  
 [Verwalten von Anlagen](fa-manage.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Willkommen bei Dynamics NAV](across-get-started.md)
 

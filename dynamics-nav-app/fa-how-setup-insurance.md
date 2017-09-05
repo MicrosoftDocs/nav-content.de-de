@@ -51,6 +51,6 @@ Sie können zusätzliche Namen in einer Versicherungs Buch.-Blattvorlage einrich
 ## <a name="see-also"></a>Siehe auch
 [Anlageneinrichtung](fa-setup.md)  
 [Verwalten von Anlagen](fa-manage.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Willkommen bei Dynamics NAV](across-get-started.md)
 

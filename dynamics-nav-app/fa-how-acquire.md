@@ -93,6 +93,6 @@ Sie können den Restwert zusammen mit den Anschaffungskosten aus einem Anlagen F
 ## <a name="see-also"></a>Siehe auch
 [Verwalten von Anlagen](fa-manage.md)  
 [Anlageneinrichtung](fa-setup.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Willkommen bei Dynamics NAV](across-get-started.md)
 

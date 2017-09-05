@@ -39,7 +39,7 @@ Sie können die Kontenkategorien gruppieren, indem Sie einzelne Unterkategorien 
 Für jede Unterkategorie können Sie festlegen, ob Konten dieser Kategorie in bestimmte Arten von Finanzberichten enthalten sein müssen. Die Kontengruppen helfen Ihnen dabei, das Layout Ihrer Finanzberichte zu definieren. Beispielsweise gibt es in der Standardsaldoabrechnung einen einzigen Posten für Zahlungen unter Anlagen. Wenn die Saldoabrechnung Untereinträge für Handkasse und Girokonto haben soll, können Sie zwei neue Unterkategorien hinzufügen, die zusätzliche Berichtsdefinition "Bargeldkonto" für jede festlegen und sie unter der Bargeldunterkategorie einrücken. Wenn Sie Kontenschemata auf Grundlage Ihre Änderungen erstellt haben, wird die nächste Saldoabrechnung ein Gesamtsaldo für Zahlungen und zwei Zeilen mit Salden für Handgeld und das Girokonto anzeigen.     
 
 ##<a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
-[Einrichten oder Ändern des Kontenplans](finance-setup-setup-chart-accounts.md)  
+[Finanzen](Finance.md)  
+[Einrichten oder Ändern des Kontenplans](finance-setup-chart-accounts.md)  
 [Kontenschemata](finance-setup-account-schedule.md)  
 

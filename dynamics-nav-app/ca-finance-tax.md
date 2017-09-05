@@ -24,7 +24,7 @@ Weitere Informationen zur Verkaufssteuer, finden Sie unter [Verkaufssteuer sowie
 Die Steuerdaten in Einkaufsbelegen werden verwendet, um eine GST/HST-Internetdateiübertragung (GIFT) zu generieren, die Sie dem Finanzamt bereitstellen müssen. Diese Datei umfasst Steuern auf Waren und Dienstleistungen (GST) und die Harmonised Sales Tax (HST). Die Datei wird in einem .tax-Dateiformat erstellt, das über das Internet übertragen werden kann.  
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
-[Finanzen Einrichten](finance-setup-setup-finance-setup.md)  
+[Finanzen](Finance.md)  
+[Finanzen Einrichten](finance-setup-finance.md)  
 [Verkaufssteuer sowie Steuergruppen in den USA und in Kanada](us-finance-setup-sales-tax.md)
 

@@ -81,7 +81,7 @@ Füllen Sie das Feld **Einheits-Preis** für das Aufwandssachkonto aus. Dies ist
 ## <a name="to-set-up-job-posting-groups"></a>Projektbuchungsgruppen einrichten  
 Ein Aspekt der Projektenplanung besteht darin, zu entscheiden, welche Buchungskonten für die Projektkalkulation verwendet werden. Damit Projekte gebucht werden können, müssen Sie Konten für die Buchung für jede Projektbuchungsgruppe einrichten. Eine Buchungsgruppe stellt eine Verknüpfung zwischen dem Projekt und der Art dar, wie es in der Finanzbuchhaltung zu behandeln ist. Wenn Sie ein Projekt erstellen, geben Sie eine Buchungsgruppe an, und standardmäßig wird jede Aufgabe, die Sie erstellen, dieser Buchungsgruppe zugeordnet. Wenn Sie Aufgaben erstellen, können Sie jedoch die Voreinstellung überschreiben und eine Buchungsgruppe auswählen, die geeigneter ist.  
 
-**Hinweis**: Die erforderlichen Konten im Fenster Kontenplan müssen eingegeben werden, bevor Sie Buchungsgruppen einrichten können. Weitere Informationen finden Sie unter [Einrichten oder ändern des Kontenplans](finance-setup-setup-chart-accounts.md).  
+**Hinweis**: Die erforderlichen Konten im Fenster Kontenplan müssen eingegeben werden, bevor Sie Buchungsgruppen einrichten können. Weitere Informationen finden Sie unter [Einrichten oder ändern des Kontenplans](finance-setup-chart-accounts.md).  
 
 1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Projektbuchungsgruppen** ein. Wählen Sie dann den zugehörigen Link aus.  
 2. Wählen Sie die Aktion **Neu** und füllen Sie dann die Kontenfelder wie in der folgenden Tabelle beschrieben aus.  
@@ -107,7 +107,7 @@ Ein Aspekt der Projektenplanung besteht darin, zu entscheiden, welche Buchungsko
 ## <a name="see-also"></a>Siehe auch
 [Projektmanagement einrichten](projects-setup-projects.md)  
 [Projekte verwalten](projects-manage-projects.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Einkauf verwalten](purchasing-manage-purchasing.md)         
 [Verkauf verwalten](sales-manage-sales.md)      
 [Arbeiten mit Dynamics NAV](ui-work-product.md)  

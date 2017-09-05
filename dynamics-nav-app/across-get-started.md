@@ -38,7 +38,7 @@ Wenn Sie eine unterstützte Einrichtung ausgeführt haben, wird sie als **Abgesc
 
 ## <a name="see-also"></a>Siehe auch
 [Setup](setup.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Anpassen des Dynamics NAV mithilfe der Erweiterungen](ui-extensions.md)  
 [Arbeiten mit Dynamics NAV](ui-work-product.md)  
 [Nutzen Sie Dynamics NAV als Ihr Unternehmenspostfach in Outlook](across-outlook.md)  

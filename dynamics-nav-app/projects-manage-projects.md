@@ -39,6 +39,6 @@ Die folgende Tabelle enthält eine Abfolge von Aufgaben sowie Links zu den entsp
 [Projektmanagement einrichten](projects-setup-projects.md)    
 [Einkauf verwalten](purchasing-manage-purchasing.md)         
 [Verkauf verwalten](sales-manage-sales.md)    
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Arbeiten mit Dynamics NAV](ui-work-product.md)  
 

@@ -5,7 +5,7 @@
 ## [Seite oder Bericht suchen verwenden](ui-search.md)
 ## [Sortieren](ui-sorting.md)
 
-# [Finanzen](finance-setup.md)
+# [Finanzen](Finance.md)
 # [Verkauf](sales-manage-sales.md)
 # [Einkauf](purchasing-manage-purchasing.md)
 # [Lagerbest](inventory-manage-inventory.md)

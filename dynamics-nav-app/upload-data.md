@@ -27,7 +27,7 @@ Wenn beispielsweise Ihre IIF-Datei Debitoren und Kreditoren umfasst, können Sie
 Die unterstützte Einrichtung umfasst eine Option, die Vorgabe Konfiguration der Übertragung zu ändern. Wir empfehlen aber, dass nur dieses erweiterte Einrichtung eingeben wird, wenn Sie mit Datenbanktabellen vertraut sind. In der überwiegenden Mehrheit von Geschäften überträgt die Standardzuordnung von QuickBook zu Dynamics NAV die Informationen, die Sie möchten.
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Anpassen des Dynamics NAV mithilfe der Erweiterungen](ui-extensions.md)   
 [Dynamics NAV einrichten](setup.md)
 

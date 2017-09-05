@@ -345,6 +345,6 @@ Wenn Sie einen Posten in B1 im Anlagen-Fibu Buch.-Blatt erstellen und ein Häkch
 ## <a name="see-also"></a>Siehe auch
 [Verwalten von Anlagen](fa-manage.md)  
 [Anlageneinrichtung](fa-setup.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Willkommen bei Dynamics NAV](across-get-started.md)
 

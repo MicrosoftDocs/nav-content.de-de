@@ -25,7 +25,7 @@ Eine weitere Aufgabengruppe im Zusammenhang mit der Erstellung von Kreditorenmas
 
 Die periodische Aktivität zur Erstellung der Kreditorenkarten für neue Kreditoren wird im Abschnitt "Einkauf verwalten" behandelt. Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten neuer Kreditoren](purchasing-how-register-new-vendors.md).
 
-Einrichten von finanzbezogenen Einkäufen wie Zahlungsformen und Währungen werden im Finanzsetupabschnitt behandelt. Weitere Informationen finden Sie unter [Finanzen einrichten](finance-setup-setup-finance-setup.md).
+Einrichten von finanzbezogenen Einkäufen wie Zahlungsformen und Währungen werden im Finanzsetupabschnitt behandelt. Weitere Informationen finden Sie unter [Finanzen einrichten](finance-setup-finance.md).
 
 |Aufgabe |Siehe |
 |---|----|

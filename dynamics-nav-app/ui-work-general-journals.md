@@ -38,6 +38,6 @@ Bei einem wiederkehrenden Buch.-Blatt handelt es sich um ein Fibu Buch.-Blatt mi
 
 ## <a name="see-also"></a>Siehe auch
 [Vorgehensweise: Verwenden von Verteilungsschlüsseln in Fibu Buch.-Blättern](ui-how-use-allocation-keys-general-journals.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Arbeiten mit Dynamics NAV](ui-work-product.md)
 

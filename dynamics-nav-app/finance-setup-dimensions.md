@@ -35,5 +35,5 @@ Zuletzt können Sie eine Dimension auch erforderlich machen, sodass ein Posten m
 
 ## <a name="see-also"></a>Siehe auch
 [Dimensionen](finance-setup-dimensions.md)  
-[Zentrale Finanzprozesse einrichten](finance-setup-setup-finance-setup.md)
+[Zentrale Finanzprozesse einrichten](finance-setup-finance.md)
 

@@ -30,6 +30,6 @@ Die Datumsangaben, die Sie hier vornehmen, gelten für den Mandanten und alle An
 
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Abschließen von Periodenabschlüssen](year-how-complete-period-end-processes.md)
 

@@ -29,7 +29,7 @@ Das bedeutet, dass Sie so viele maßgeschneiderte Finanzaufstellungen erstellen 
 ## <a name="account-categories-and-account-schedules"></a>Kontengruppen und Kontenschemata
 Sie können Kontengruppen dazu verwenden, das Layout Ihrer Finanzberichte zu ändern. Wenn Sie Ihre Kontengruppen im Fenster **Sachkontokategorien** eingerichtet haben und die Aktion **Kontenschemata generieren** auswählen, werden die zugrunde liegenden Kontenschemata für die Kernfinanzberichte aktualisiert. sobald Sie das nächste Mal einen dieser Berichte ausführen, sowie Saldoabrechnung, neue Summen und Untereinträge hinzufügen, basierend auf Ihren Änderungen. Weitere Informationen finden Sie unter [Die Finanzbuchhaltung und der Kontenplan](finance-setup-general-ledger.md).    
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
-[Finanzen Einrichten](finance-setup-setup-finance-setup.md)  
+[Finanzen](Finance.md)  
+[Finanzen Einrichten](finance-setup-finance.md)  
 [Die Finanzbuchhaltung und der Kontenplan](finance-setup-general-ledger.md)  
 

@@ -22,14 +22,14 @@ Die folgende Tabelle enthält einen Überblick über die Aufgaben, die Sie übli
 
 |Aufgabe     |Siehe                   |
 |-------|----------------------|
-|Geben Sie systemweite und benutzerspezifische Buchungsdatumsbereiche an. Je nach Geschäftsanforderungen empfiehlt es sich, die Buchungsdatumsbereiche für Benutzer zu Beginn und am Ende des Periodenabschlusses einzugrenzen.|[So geht's: Buchhaltungsperioden festlegen](finance-setup-how-specify-posting-periods.md)|
+|Geben Sie systemweite und benutzerspezifische Buchungsdatumsbereiche an. Je nach Geschäftsanforderungen empfiehlt es sich, die Buchungsdatumsbereiche für Benutzer zu Beginn und am Ende des Periodenabschlusses einzugrenzen.|[So geht's: Buchhaltungsperioden festlegen](finance-how-specify-posting-periods.md)|
 |Verschaffen Sie sich einen Überblick über die Aktivitäten, die üblicherweise am Ende einer Periode fällig werden wie Buchen aller Belege und Buch.-Blätter oder das Ausführen von Kontenschemata.|[Periode schließen](year-how-complete-period-end-processes.md)|
-|Aktualisieren von Wechselkursen und Anpassen der Wechselkurse gebuchter Debitoren-, Kreditoren- und Bankkontoposten|[Vorgehensweise: Regulieren von Währungswechselkursen](finance-setup-setup-currencies.md)|
+|Aktualisieren von Wechselkursen und Anpassen der Wechselkurse gebuchter Debitoren-, Kreditoren- und Bankkontoposten|[Vorgehensweise: Regulieren von Währungswechselkursen](finance-setup-currencies.md)|
 |Verteilen von Kosten und Umsatz auf Konten und Dimensionen|[Kosten und Einkünfte zuteilen](year-allocate-costs-income.md)|
 |Drucken von Berichten zum Prüfen der Salden von Finanzbuchhaltung, Debitoren, Kreditoren und Bankkonten vor dem Periodenabschluss|[Vorab-Abschlussberichte vorbereiten](year-prepare-preclose-reports.md)|
 |Abschließen der Buchhaltungsperioden, Übertragen der GuV-Salden auf Bilanzkonten und Buchen des .Jahresabschlusspostens.|[Buchabschluss](year-close-books.md)|
 |Drucken von Berichten zur Unterstützung beim Erstellen von Finanzauswertungen|[Vorbereiten von Abschlussrechnungen](year-prepare-close-statements.md)|
 
 ## <a name="see-also"></a>Siehe auch
-[So geht's: Ein neues Geschäftsjahr eröffnen](finance-setup-how-open-new-fiscal-year.md)
+[So geht's: Ein neues Geschäftsjahr eröffnen](finance-how-open-new-fiscal-year.md)
 

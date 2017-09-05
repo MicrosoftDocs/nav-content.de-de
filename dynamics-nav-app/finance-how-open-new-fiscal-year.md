@@ -31,7 +31,7 @@ Die Buchhaltungsperioden werden der Seite hinzugefügt. Die Felder **Startdatum*
 
 
 ## <a name="see-also"></a>Siehe auch
-[So geht's: Buchhaltungsperioden festlegen](finance-setup-how-specify-posting-periods.md)  
+[So geht's: Buchhaltungsperioden festlegen](finance-how-specify-posting-periods.md)  
 [Vorgehensweise: Buchen des Jahresabschlusspostens](year-how-post-year-end-close-entry.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 

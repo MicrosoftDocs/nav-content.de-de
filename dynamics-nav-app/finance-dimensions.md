@@ -35,6 +35,6 @@ Ein Dimensionssatz ist eine eindeutige Kombination von Dimensionswerten. Er wird
 Wenn Sie eine neue Buch.-Blattzeile, einen Belegkopf oder eine Belegzeile erstellen, können Sie eine Kombination von Dimensionswerten angeben. Anstatt jeden Dimensionswert explizit in der Datenbank zu speichern, wird eine Dimensionssatz-ID der Buch.-Blattzeile, dem Belegkopf oder der Belegzeile zugewiesen, um den Dimensionssatz anzugeben.  
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
-[Einrichtung von Dimensionen](finance-setup-setup-dimensions.md)  
+[Finanzen](Finance.md)  
+[Einrichtung von Dimensionen](finance-setup-dimensions.md)  
 

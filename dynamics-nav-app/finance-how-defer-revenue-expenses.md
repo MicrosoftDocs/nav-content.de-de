@@ -82,7 +82,7 @@ Sachkonteneinträge, die im entsprechenden Abgrenzungskonto gebucht werden müss
 3. Klicken Sie auf die Schaltfläche **Vorschau**.
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
-[Zentrale Finanzprozesse einrichten](finance-setup-setup-finance-setup.md)  
+[Finanzen](Finance.md)  
+[Zentrale Finanzprozesse einrichten](finance-setup-finance.md)  
 [Vorgehensweise: Arbiet mit n mit Fibu-Buch.-Blättern](ui-work-general-journals.md)
 
