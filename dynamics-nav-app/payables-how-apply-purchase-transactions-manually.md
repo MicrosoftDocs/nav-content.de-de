@@ -90,7 +90,7 @@ Falls Sie Käufe von einem Kreditor in einer Währung tätigen und die Zahlung i
 
 Wenn Sie einen Posten (Posten 2) in einer Währung mit einem Posten (Posten 1) in einer anderen Währung ausgleichen, wird das Buchungsdatum von Posten 1 verwendet, um den entsprechenden Wechselkurs zur Umrechnung der Beträge von Posten 2 zu ermitteln. Den Wechselkurs finden Sie im Fenster **Währungswechselkurse**.
 
-Das Ausgleichen von Kreditorenposten in verschiedenen Währungen muss aktiviert sein. Weitere Informationen finden Sie unter [Anwendung von Kreditorenposten in unterschiedlichen Währungen aktivieren](finance-setup-how-enable-application-ledger-entries-different-currencies.md)
+Das Ausgleichen von Kreditorenposten in verschiedenen Währungen muss aktiviert sein. Weitere Informationen finden Sie unter [Anwendung von Kreditorenposten in unterschiedlichen Währungen aktivieren](finance-how-enable-application-ledger-entries-different-currencies.md)
 
 1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Zahlung Buch.-Blatt** ein. Wählen Sie dann den zugehörigen Link aus.
 2. Öffnen Sie das gewünschte Buch.-Blatt, und füllen Sie unter Verwendung eines Währungscodes die erste Zeile aus.

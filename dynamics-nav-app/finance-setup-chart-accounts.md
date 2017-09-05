@@ -31,8 +31,8 @@ Im Kontenplan können Sie jedes Sachkonto öffnen und Einstellungen hinzufügen 
 Dynamics NAV verhindert, dass Sie ein Sachkonto löschen, in dem Daten gespeichert werden, die im Kontenplan erforderlich sind.  
 
 ##<a name="see-also"></a>Siehe auch  
-[Die Finanzbuchhaltung und der Kontenplan](finance-setup-general-ledger.md)  
+[Die Finanzbuchhaltung und der Kontenplan](finance-general-ledger.md)  
 [Verwalten von Bankkonten](bank-manage-bank-accounts.md)  
 [Dimensionen](finance-setup-dimensions.md)  
-[So gehts: Arbeiten mit GIFI-Codes in Kanada](ca-finance-setup-work-GiFI-codes.md)
+[So gehts: Arbeiten mit GIFI-Codes in Kanada](ca-finance-work-GiFI-codes.md)
 

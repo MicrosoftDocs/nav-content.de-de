@@ -38,7 +38,7 @@ Diese Tabelle enthält die EINSCHLIESSUNGSausdrücke, die mit dem Inhalt der Ein
 |`[!INCLUDE[d365fin_md](includes/d365fin_md.md)]`|Finanzen|
 |`[!INCLUDE[demo_md](includes/demo_md.md)]`|CRONUS|
 |`[!INCLUDE[demolong_md](includes/demolong_md.md)]`|CRONUS Danmark A/S Demodatenbank|
-|`[!INCLUDE[demolonglight_md](includes/demolonglight_md.md)]`|CRONUS-Demonstrationsdatenbank|
+|`[!INCLUDE[demolonglight_md](includes/demolonglight_md.md)]`|CRONus-finance-sales-tax.mdDemonstrationsdatenbank|
 |`[!INCLUDE[demoname_md](includes/demoname_md.md)]`|CRONUS Danmark A/S|
 |`[!INCLUDE[dyn_nav_md](includes/dyn_nav_md.md)]`|Microsoft Dynamics NAV|
 |`[!INCLUDE[nav_4_md](includes/nav_4_md.md)]`|Microsoft Dynamics NAV 4.0|

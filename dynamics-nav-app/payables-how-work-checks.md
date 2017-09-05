@@ -21,7 +21,7 @@ Dynamics NAV unterstützt die elektronische und die manuelle Scheckausstellung. 
 
 Bei dem Verfahren zum Ausstellen von Schecks werden Zahlungsvorschläge gemacht, Scheckposten erstellt und die Computerschecks gedruckt.
 
-Der Drucker muss für den Ausdruck von Scheckformularen eingerichtet werden, und Sie müssen festlegen welches Layout verwendet werden soll. Weitere Informationen zum Definieren von Attributen finden Sie unter [So gehts: Definieren von Scheck-Layouts](finance-setup-how-define-check-layouts.md).
+Der Drucker muss für den Ausdruck von Scheckformularen eingerichtet werden, und Sie müssen festlegen welches Layout verwendet werden soll. Weitere Informationen zum Definieren von Attributen finden Sie unter [So gehts: Definieren von Scheck-Layouts](finance-how-define-check-layouts.md).
 
 ## <a name="to-issue-checks"></a>Um Schecks auszustellen
 1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Zahlung Buch.-Blätter** ein. Wählen Sie dann den zugehörigen Link aus.

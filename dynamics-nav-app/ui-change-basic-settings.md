@@ -31,7 +31,7 @@ Das Standardrollencenter ist die **Verkaufsauftragsverarbeitung**, aber Sie kön
 ## <a name="company"></a>Unternehmen
 Ein Unternehmen dient als Container für Daten in Dynamics NAV. Es kann mehrere Unternehmen in einer Datenbank geben, aber nur eine kann gleichzeitig ausgewählt werden.
 
-Das CRONUS-US-Unternehmen ist das standardmäßige Unternehmen. Es enthält nur Demodaten.   
+Das CRONus-finance-sales-tax.mdus-finance-sales-tax.mdUnternehmen ist das standardmäßige Unternehmen. Es enthält nur Demodaten.   
 
 ## <a name="work-date"></a>Arbeitsdatum
 Standardmäßig wird das aktuelle Datum (Systemdatum) verwendet. Um Aufgaben wie das Abschließen von Transaktionen für ein Datum auszuführen, das nicht das aktuelle Datum ist, müssen Sie möglicherweise vorübergehend das Arbeitsdatum ändern.

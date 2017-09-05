@@ -41,5 +41,5 @@ Für jede Unterkategorie können Sie festlegen, ob Konten dieser Kategorie in be
 ##<a name="see-also"></a>Siehe auch
 [Finanzen](Finance.md)  
 [Einrichten oder Ändern des Kontenplans](finance-setup-chart-accounts.md)  
-[Kontenschemata](finance-setup-account-schedule.md)  
+[Kontenschemata](finance-account-schedule.md)  
 
