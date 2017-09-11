@@ -1,1 +1,1 @@
-Um die Fensterthemen in diesem Bereich anzuzeigen, wählen Sie die Untereinträge im Inhaltsverzeichnis.
+<span data-ttu-id="b6fdd-101">Um die Fensterthemen in diesem Bereich anzuzeigen, wählen Sie die Untereinträge im Inhaltsverzeichnis.</span><span class="sxs-lookup"><span data-stu-id="b6fdd-101">To see the window topics in this section, choose the subentries in the table of contents.</span></span>

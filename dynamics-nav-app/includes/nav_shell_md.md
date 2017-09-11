@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV 2017 Verwaltungsshell
+<span data-ttu-id="01804-101">Microsoft Dynamics NAV 2017 Verwaltungsshell</span><span class="sxs-lookup"><span data-stu-id="01804-101">Microsoft Dynamics NAV 2017 Administration Shell</span></span>

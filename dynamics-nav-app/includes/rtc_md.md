@@ -1,1 +1,1 @@
-Rollenbasierter Client
+<span data-ttu-id="94c7c-101">Rollenbasierter Client</span><span class="sxs-lookup"><span data-stu-id="94c7c-101">RoleTailored client</span></span>
