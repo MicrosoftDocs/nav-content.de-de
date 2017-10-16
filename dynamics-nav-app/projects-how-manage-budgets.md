@@ -47,7 +47,7 @@ Informationen zur Erfassung der budgetierten versus aktueller Preise und Kosten 
 
 ## <a name="see-also"></a>Siehe auch
 [Projekte verwalten](projects-manage-projects.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Einkauf verwalten](purchasing-manage-purchasing.md)         
 [Verkauf verwalten](sales-manage-sales.md)      
 [Arbeiten mit Dynamics NAV](ui-work-product.md)  

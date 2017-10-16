@@ -25,7 +25,7 @@ Sie können praktisch alle Belegarten als Dateianhänge in E-Mails direkt im Fen
 
 Von allen unterstützten Belegen initiieren Sie das Übermitteln per E-Mail, indem Sie **Senden** auf gebuchten Belegen oder **Buchen und Senden** auf nicht-gebuchten Belegen auswählen.
 
-Wenn das Feld **E-Mail** Im Fenster **Dokument senden an** auf **JA festgelegt wurde (Aufforderung für Einstellungen)**, dann wird das Fenster **Senden per E-Mail** geöffnet und mit der Kontaktperson im Feld **Zu** ergänzt und das Dokument als PDF-Datei angehängt. Geben Sie im Feld **Text** entweder den Text manuell ein oder Sie können definieren, dass das Feld mit einem dokumentspezifischen E-Mail-Text ausgefüllt wird, den Sie eingerichtet haben.
+Wenn das Feld **E-Mail** Im Fenster **Dokument senden an** auf **JA festgelegt wurde (Aufforderung für Einstellungen)**, dann wird das Fenster **Senden per E-Mail** geöffnet und mit dem Personenkontakt im Feld **Zu** ergänzt und das Dokument als PDF-Datei angehängt. Geben Sie im Feld **Text** entweder den Text manuell ein oder Sie können definieren, dass das Feld mit einem dokumentspezifischen E-Mail-Text ausgefüllt wird, den Sie eingerichtet haben.
 
 Nachfolgend wird beschrieben, wie der Bericht **Verkaufsrechnung** für dokumentspezifische E-Mail-Texte verwendet wird, wenn Sie gebuchte Verkaufsrechnungen senden.
 

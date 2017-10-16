@@ -40,7 +40,7 @@ Homepages verwenden ein Rollen orientiertes Design, damit Sie rasch auf Geschäf
 ## <a name="see-also"></a>Siehe auch
 [Arbeiten mit [!INCLUDE[navnow](includes/navnow_md.md)]](ui-work-product.md)  
 [Einrichten [!INCLUDE[navnow](includes/navnow_md.md)]](setup.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Anpassen [!INCLUDE[navnow](includes/navnow_md.md)] Erweiterungen nutzenb](ui-extensions.md)  
 [Nutzen von [!INCLUDE[navnow](includes/navnow_md.md)] als Ihr Unternehmenspostfach in Outlook](across-outlook.md)  
 [Abrufen [!INCLUDE[navnow](includes/navnow_md.md)] auf meinem mobilen Gerät](install-mobile-app.md)  

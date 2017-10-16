@@ -17,9 +17,9 @@ ms.lasthandoff: 06/26/2017
 ---
 
 # <a name="how-to-set-up-salespeople"></a>Gewusst wie: Verkäufer einrichten
-Viele Unternehmen möchten die Leistungen der einzelnen Angestellten bei der Berechnung von Verkaufsprovisionen oder Prämien berücksichtigen. Sehen Sie beispielsweise den Verkäufer-Kommissionsbericht. Ein Unternehmen möchte möglicherweise auch jeder Kontaktperson einen Verkäufer zuordnen.
+Viele Unternehmen möchten die Leistungen der einzelnen Angestellten bei der Berechnung von Verkaufsprovisionen oder Prämien berücksichtigen. Sehen Sie beispielsweise den Verkäufer-Kommissionsbericht. Ein Unternehmen möchte möglicherweise auch jeder Personenkontakt einen Verkäufer zuordnen.
 
-Wenn Sie einen Verkäufer im Fenster **Verkäufer** eingerichtet haben, können Sie im Feld **Verkäufercode** aus allen relevanten Datensätze, wie Sachkonto, Debitoren, Kreditoren, Kontaktpersonen und Kampagnenkarten auswählen. Wenn Sie Rechnungen buchen oder einrichten, werden Gutschriften, Buch.-Blattzeilen, Finanzeinrichtungsgebühren-Aktivitäten usw. mit dem Verkäufercode in die resultierenden Posten übertragen.
+Wenn Sie einen Verkäufer im Fenster **Verkäufer** eingerichtet haben, können Sie im Feld **Verkäufercode** aus allen relevanten Datensätze, wie Sachkonto, Debitoren, Kreditoren, Personenkontakten und Kampagnenkarten auswählen. Wenn Sie Rechnungen buchen oder einrichten, werden Gutschriften, Buch.-Blattzeilen, Finanzeinrichtungsgebühren-Aktivitäten usw. mit dem Verkäufercode in die resultierenden Posten übertragen.
 
 ## <a name="to-set-up-a-salesperson-code"></a>So richten Sie einen Verkäufercode ein
 1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** und geben **Verkäufer** ein. Wählen Sie dann den zugehörigen Link aus.

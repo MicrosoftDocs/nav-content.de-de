@@ -27,7 +27,7 @@ Es gibt acht verfügbare AfA-Methoden:
 - Manuell  
 
     Wenn Sie die manuelle Methode verwenden, müssen Sie die Abschreibung manuell im Anlagen Fibu Buch.-Blatt eingeben. Die Stapelverarbeitung **AfA berechnen** berücksichtigt keine Anlagen mit der AfA-Methode "Manuell". Sie können diese Methode für Anlagen verwenden, die nicht abgeschrieben werden z. B. Land.  
-- US-Halbjahresregel  
+- us-finance-sales-tax.mdHalbjahresregel  
 
     Wenn diese Methode verwendet wird, wird eine Anlage jedes Jahr mit dem gleichen Betrag abgeschrieben.  
 
@@ -267,19 +267,19 @@ Im vorherigen Beispiel enthalten die Felder **Startdatum Benutzerdef. AfA** und 
 
 * Startdatum Normal-AfA
 
-## <a name="half-year-convention-depreciation"></a>AfA 1 unter Verwendung der US-Halbjahresregel   
-Die US-Halbjahresregel wird nur dann angewendet, wenn Sie ein Häkchen im Feld **US-Halbjahresregel verwenden** im **Anlagen-AfA-Buch** gesetzt haben.  
+## <a name="half-year-convention-depreciation"></a>AfA 1 unter Verwendung der us-finance-sales-tax.mdHalbjahresregel   
+Die us-finance-sales-tax.mdHalbjahresregel wird nur dann angewendet, wenn Sie ein Häkchen im Feld **us-finance-sales-tax.mdHalbjahresregel verwenden** im **Anlagen-AfA-Buch** gesetzt haben.  
 
 Diese AfA-Methode kann im Zusammenhang mit den folgenden AfA-Methoden in der Anwendung verwendet werden:  
 - Linear
 - Degressiv 1
 - Degr1/Linear  
 
-Wenn die US-Halbjahresregel angewendet wird, hat eine Anlage sechs AfA-Monate im ersten Geschäftsjahr der Abschreibung, unabhängig vom Inhalt des Felds **Startdatum Normal-AfA**.  
+Wenn die us-finance-sales-tax.mdHalbjahresregel angewendet wird, hat eine Anlage sechs AfA-Monate im ersten Geschäftsjahr der Abschreibung, unabhängig vom Inhalt des Felds **Startdatum Normal-AfA**.  
 
-**Hinweis**. Die Nutzungsdauer einer Anlage, die nach dem ersten Geschäftsjahr verbleibt, enthält immer ein halbes Jahr, wenn die US-Halbjahresregel verwendet wird. Damit die US-Halbjahresregel korrekt angewendet wird, muss dass Feld **Enddatum d. Nutzungsdauer** im Fenster **Anlagen-AfA-Buch** immer ein Datum enthalten, das genau sechs Monate vor dem Enddatum des Geschäftsjahres liegt, in dem die Anlage vollständig abgeschrieben ist.  
+**Hinweis**. Die Nutzungsdauer einer Anlage, die nach dem ersten Geschäftsjahr verbleibt, enthält immer ein halbes Jahr, wenn die us-finance-sales-tax.mdHalbjahresregel verwendet wird. Damit die us-finance-sales-tax.mdHalbjahresregel korrekt angewendet wird, muss dass Feld **Enddatum d. Nutzungsdauer** im Fenster **Anlagen-AfA-Buch** immer ein Datum enthalten, das genau sechs Monate vor dem Enddatum des Geschäftsjahres liegt, in dem die Anlage vollständig abgeschrieben ist.  
 
-### <a name="example---half-year-convention-depreciation"></a>Beispiel – AfA 1 unter Verwendung der US-Halbjahresregel
+### <a name="example---half-year-convention-depreciation"></a>Beispiel – AfA 1 unter Verwendung der us-finance-sales-tax.mdHalbjahresregel
 Eine Anlage hat Anschaffungskosten von MW 100.000. Das **Startdatum Normal-AfA** ist der 01.03.10. Die erwartete Lebensdauer ist fünf Jahre, daher muss das Feld **Enddatum d. Nutzungsdauer** den Wert 30.06.15 enthalten. Die Stapelverarbeitung **AfA berechnen** wird jährlich ausgeführt. Dieses Beispiel basiert auf einem Kalenderjahr als Geschäftsjahr.  
 
  Die Anlagenposten sehen folgendermaßen aus:  
@@ -296,7 +296,7 @@ Eine Anlage hat Anschaffungskosten von MW 100.000. Das **Startdatum Normal-AfA**
 
 * Startdatum Normal-AfA  
 
-## <a name="example---db1sl-depreciation-using-half-year-convention"></a>Beispiel – Degressiv/Lineare AfA 1 unter Verwendung der US-Halbjahresregel  
+## <a name="example---db1sl-depreciation-using-half-year-convention"></a>Beispiel – Degressiv/Lineare AfA 1 unter Verwendung der us-finance-sales-tax.mdHalbjahresregel  
 Eine Anlage hat Anschaffungskosten von MW 100.000. Das **Startdatum Normal-AfA** ist der 01.11.10. Die erwartete Lebensdauer ist fünf Jahre, daher muss das Feld **Enddatum d. Nutzungsdauer** den Wert 30.06.15 enthalten. Im Fenster **Anlagen-AfA-Bücher** enthält das Feld **Degressive AfA %** den Wert 40. Die Stapelverarbeitung **AfA berechnen** wird jährlich ausgeführt. Dieses Beispiel basiert auf einem Kalenderjahr als Geschäftsjahr.  
 
 Die Anlagenposten sehen folgendermaßen aus:  
@@ -345,6 +345,6 @@ Wenn Sie einen Posten in B1 im Anlagen-Fibu Buch.-Blatt erstellen und ein Häkch
 ## <a name="see-also"></a>Siehe auch
 [Verwalten von Anlagen](fa-manage.md)  
 [Anlageneinrichtung](fa-setup.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Willkommen bei Dynamics NAV](across-get-started.md)
 

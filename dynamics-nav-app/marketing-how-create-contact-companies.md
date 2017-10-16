@@ -1,5 +1,5 @@
 ---
-title: Erstellen von Kontaktunternehmen
+title: Erstellen von Unternehmenskontakte
 author: jswymer
 ms.custom: na
 ms.date: 09/16/2016
@@ -15,7 +15,7 @@ ms.contentlocale: de-de
 ms.lasthandoff: 06/26/2017
 
 ---
-# <a name="create-contact-companies"></a>Erstellen von Kontaktunternehmen
+# <a name="create-contact-companies"></a>Erstellen von Unternehmenskontakte
 Sie können für jedes neue Unternehmen, mit dem Sie Geschäfte machen, eine Kontaktkarte anlegen. Das können z. B. Debitoren, Kreditoren, Interessenten, Banken, Rechtsanwälte, Berater usw. sein.
 
 Es gibt zwei Möglichkeiten, um einen Kontakt zu erstellen: von Grund auf neu oder aus einem bestehenden Debitor, Kreditor oder Bankkonto.
@@ -34,7 +34,7 @@ Bevor Sie einen Kontakt anlegen, sollten Sie die Einstellungen im Fenster **Mark
 ## <a name="create-a-company-contact-from-a-customer-vendor-or-bank-account"></a>Erstellen eines Unternehmenskontakts aus einem Debitor, Kreditor oder Bankkonto
 Wenn Sie bereits eine Anzahl von Debitoren, Kreditoren und Bankkonten eingerichtet haben, können Sie Kontakte auf der Basis von bestehenden Daten erstellen. Wenn Sie einen Kontakt auf diese Weise erstellen, werden die Kontaktinformationen mit dem Debitoren-, Kreditoren- oder den Bankkontoinformationen synchronisiert.
 
-**Hinweis**: Bevor Sie auf diese Weise ein Kontaktunternehmen erstellen können, müssen Sie einen Geschäftsbeziehungscode für Debitoren, Kreditoren und Bankkonten im Fenster **Marketingeinrichtung** angeben. Wenn Sie Kontakte aus Bankkonten erstellen, müssen Sie Nummernserie für Bankkonten im **Finanzbuchhaltungseinrichtung**-Fenster angeben.
+**Hinweis**: Bevor Sie auf diese Weise ein Unternehmenskontakt erstellen können, müssen Sie einen Geschäftsbeziehungscode für Debitoren, Kreditoren und Bankkonten im Fenster **Marketingeinrichtung** angeben. Wenn Sie Kontakte aus Bankkonten erstellen, müssen Sie Nummernserie für Bankkonten im **Finanzbuchhaltungseinrichtung**-Fenster angeben.
 
 1. Wählen Sie oben rechts das Symbol **Nach Seite oder Bericht suchen**, geben Sie einen der folgenden Begriffe ein (abhängig davon, was wo sie die Kontakte erstellen möchten), und klicken Sie auf den zugehörigen Link.
   * **Kontakte aus Debitoren erstellen**
@@ -51,5 +51,5 @@ Wenn Sie bereits eine Anzahl von Debitoren, Kreditoren und Bankkonten eingericht
 [Kontakten Geschäftsbeziehungen zuordnen](marketing-business-relations.md#assign-business-relations-to-a-contact)  
 [Kontakt eine Branche zuordnen](marketing-industry-groups.md#assign-industry-groups-to-a-contact)  
 [Zuordnen von Verteiler zu einem Kontakt](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)  
-[Gewusst wie: Anlegen neuer Kontaktpersonen](marketing-create-contact-persons.md)  
+[Gewusst wie: Anlegen neuer Personenkontakte](marketing-create-contact-persons.md)  
 

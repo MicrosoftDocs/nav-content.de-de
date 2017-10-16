@@ -52,5 +52,5 @@ Anschließend wird ein Ultimoposten generiert, der jedoch nicht automatisch gebu
 Sie können Buchungen in einem früheren Geschäftsjahr auch durchführen, nachdem die GuV-Konten geschlossen wurden, wenn Sie danach die Stapelverarbeitung GuV-Konten Nullstellung erneut ausführen.
 
 ## <a name="see-also"></a>Siehe auch
-[So geht's: Ein neues Geschäftsjahr eröffnen](finance-setup-how-open-new-fiscal-year.md)
+[So geht's: Ein neues Geschäftsjahr eröffnen](finance-how-open-new-fiscal-year.md)
 

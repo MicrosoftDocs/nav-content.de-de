@@ -70,7 +70,7 @@ Zusätzlich zu den Kosten, die in der Ressourcenkarte angegeben werden, können 
 ## <a name="see-also"></a>Siehe auch
 [Projektmanagement einrichten](projects-setup-projects.md)  
 [Projekte verwalten](projects-manage-projects.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Einkauf verwalten](purchasing-manage-purchasing.md)         
 [Verkauf verwalten](sales-manage-sales.md)      
 [Arbeiten mit Dynamics NAV](ui-work-product.md)  

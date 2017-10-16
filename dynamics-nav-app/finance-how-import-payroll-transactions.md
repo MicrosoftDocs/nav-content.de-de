@@ -29,6 +29,6 @@ Um Gehaltszahlungen und verwandte Transaktionen zu berücksichtigen, müssen Sie
 4. Bearbeiten oder buchen Sie die Buch.-Blattzeilen für andere Finanzbuchhaltungstransaktionen. Weitere Informationen finden Sie unter [Arbeiten mit Fibu Buch.-Blättern](ui-work-general-journals.md).   
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Vorgehensweise: Arbiet mit n mit Fibu-Buch.-Blättern](ui-work-general-journals.md)  
 

@@ -71,6 +71,6 @@ Sie können mehrere Anlage in einer Anlagen zusammenfassen, wenn Sie zum Beispie
 ## <a name="see-also"></a>Siehe auch
 [Verwalten von Anlagen](fa-manage.md)  
 [Anlageneinrichtung](fa-setup.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Willkommen bei Dynamics NAV](across-get-started.md)
 

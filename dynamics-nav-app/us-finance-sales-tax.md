@@ -16,7 +16,7 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="sales-tax-and-tax-groups-in-the-us-and-canada"></a>Verkaufssteuer sowie Steuergruppen in den USA und in Kanada
+# <a name="sales-tax-and-tax-groups-in-the-us-finance-sales-tax.mdand-canada"></a>Verkaufssteuer sowie Steuergruppen in den USA und in Kanada
 Wenn Sie Dynamics NAV zum ersten Mal starten, können Sie eine unterstützte Einrichtung in Anspruch nehmen, um Verkaufssteuersteuerinformationen für Ihre Firma und optional für Ihre Debitoren und Kreditoren schnell und einfach zu einrichten. In Minutenschnelle sind Sie bereit, Verkaufsbelege und Einkaufsbelege mit der Verkaufssteuer zu erstellen, die richtig berechnet werden kann.
 Wenn Sie auf das leere "Mein Unternehmen" umlagern, empfiehlt es sich, dass Sie beginnen, jedes einzelne der unterstützen Setuphandbücher zu verwenden, einschließlich demjenigen für die Verkaufssteuer. Wenn Sie es vorziehen, die Verkaufssteuer selber einzurichten, beschreibt dieser Artikel, was Sie berücksichtigen müssen.  
 
@@ -35,8 +35,8 @@ Das Fenster **Steuerdetails** zeigt verschiedene Kombinationen von Verkaufssteue
 Wenn Sie in den USA einem Debitor an einem Lagerort verkaufen, in dem Sie keinen *Status* oder gültigen Lagerort haben, erheben Sie keine Verkaufssteuer. Bei Lagerorten, in denen Sie keinen Status haben, ist sichergestellt, dass sowohl die Felder **Steuer unter dem Minimum** und die **Steuer über dem Maximum** 0.00 aufweisen.  
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
-[Finanzen Einrichten](finance-setup-setup-finance-setup.md)  
-[Verkaufssteuer sowie Steuern auf Waren und Dienstleistungen in Kanada](ca-finance-setup-tax.md)  
+[Finanzen](Finance.md)  
+[Finanzen Einrichten](finance-setup-finance.md)  
+[Verkaufssteuer sowie Steuern auf Waren und Dienstleistungen in Kanada](ca-finance-tax.md)  
 [Einfaches Einrichten der Verkaufssteuer](https://madeira.microsoft.com/en-us/blog/sales-tax-setup-made-easy)  
 

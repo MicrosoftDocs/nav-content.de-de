@@ -115,6 +115,6 @@ Falls Sie das Kontrollkästchen **AfA bis Anlagedatum** aktiviert haben, würde 
 ## <a name="see-also"></a>Siehe auch
 [Verwalten von Anlagen](fa-manage.md)  
 [Anlageneinrichtung](fa-setup.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Willkommen bei Dynamics NAV](across-get-started.md)
 

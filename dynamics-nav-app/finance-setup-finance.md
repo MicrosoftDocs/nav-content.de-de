@@ -24,11 +24,11 @@ Die folgende Tabelle enthält eine Abfolge von Aufgaben sowie Links zu den entsp
 
 | Aufgabe                                                                  | Siehe                      |
 |---------------------------------------------------------------------|--------------------------|
-|Wählen Sie aus, wie Sie Zahlungen Ihrer Kreditoren verarbeiten möchten.|[Zahlungsformen](finance-setup-payment-methods.md)|
-|Einrichten von Finanzzeiträumen|[So geht's: Ein neues Geschäftsjahr eröffnen](finance-setup-how-open-new-fiscal-year.md)|
-|Richten Sie zusätzliche Währungen ein, wenn Sie internationalen Handel betreiben.|[Einrichten von Währungen](finance-setup-setup-currencies.md)|
-|Fügen Sie Dimensionen für umfangreichere Business Intelligence hinzu.|[Einrichtung von Dimensionen](finance-setup-setup-dimensions.md)|
-|Fügen Sie dem bestehenden Kontenplan neue Konten hinzu.|[Einrichten eines Kontenplans](finance-setup-setup-chart-accounts.md)|
+|Wählen Sie aus, wie Sie Zahlungen Ihrer Kreditoren verarbeiten möchten.|[Zahlungsformen](finance-payment-methods.md)|
+|Einrichten von Finanzzeiträumen|[So geht's: Ein neues Geschäftsjahr eröffnen](finance-how-open-new-fiscal-year.md)|
+|Richten Sie zusätzliche Währungen ein, wenn Sie internationalen Handel betreiben.|[Einrichten von Währungen](finance-setup-currencies.md)|
+|Fügen Sie Dimensionen für umfangreichere Business Intelligence hinzu.|[Einrichtung von Dimensionen](finance-setup-dimensions.md)|
+|Fügen Sie dem bestehenden Kontenplan neue Konten hinzu.|[Einrichten eines Kontenplans](finance-setup-chart-accounts.md)|
 
 
 

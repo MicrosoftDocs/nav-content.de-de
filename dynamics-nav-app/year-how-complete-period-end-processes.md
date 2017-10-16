@@ -21,7 +21,7 @@ Die Anwendung zwingt Sie nicht dazu Perioden abzuschließen, aber es gibt viele 
 ## <a name="general-ledger"></a>Sachposten
 * Geben Sie systemweite und benutzerspezifische Buchungsdatumsbereiche an.
 
-    Dies gibt die Daten an, zwischen denen Buchungen zulässig sind. Je nach Geschäftsanforderungen empfiehlt es sich, die Buchungsdatumsbereiche für Benutzer zu Beginn des Periodenabschlusses einzugrenzen. Weitere Informationen finden Sie unter [Vorgehensweise: Abschließen von Buchhaltungsperioden](finance-setup-how-specify-posting-periods.md).
+    Dies gibt die Daten an, zwischen denen Buchungen zulässig sind. Je nach Geschäftsanforderungen empfiehlt es sich, die Buchungsdatumsbereiche für Benutzer zu Beginn des Periodenabschlusses einzugrenzen. Weitere Informationen finden Sie unter [Vorgehensweise: Abschließen von Buchhaltungsperioden](finance-how-specify-posting-periods.md).
 * Führen Sie alle notwendigen Sachpostenregulierungen durch.
 * Aktualisieren und buchen Sie wiederkehrende Buch.-Blätter.
 <!--* Process Consolidations-->

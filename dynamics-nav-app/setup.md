@@ -24,7 +24,7 @@ Die folgende Tabelle enthält eine Abfolge von Aufgaben sowie Links zu den entsp
 
 | Aufgabe                                                                  | Siehe                      |
 |---------------------------------------------------------------------|--------------------------|
-|Zentrale Finanzprozesse einrichten|[Finanzen](finance-setup-setup-finance-setup.md)|
+|Zentrale Finanzprozesse einrichten|[Finanzen](finance-setup-finance.md)|
 |Bank einrichten.|[Bank einrichten](bank-setup-banking.md)|
 |Verkaufsprozesse einrichten.,|[Auftrag einrichten](sales-setup-sales.md)|
 |Verkaufsprozesse einrichten.|[Einkauf einrichten:](purchasing-setup-purchasing.md)|
@@ -32,7 +32,7 @@ Die folgende Tabelle enthält eine Abfolge von Aufgaben sowie Links zu den entsp
 |Verschaffen Sie sich Zugriff in Azure Services, indem Sie Ihr Dynamics NAV anmelden|[Vorgehensweise: Dynamics NAV im Azure Management Portal anmelden](ui-how-register-dynamics-nav-azure.md)|
 
 ##<a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Verkauf](sales-manage-sales.md)  
 [Einkauf](purchasing-manage-purchasing.md)  
 [Willkommen bei Dynamics NAV](across-get-started.md)  

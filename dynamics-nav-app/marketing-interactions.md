@@ -20,8 +20,8 @@ In Dynamics NAV versteht man unter Aktivitäten alle Arten der Kommunikation zwi
 
 Der Bereich "Marketing & Vertrieb" ermöglicht Ihnen, alle Aktivitäten, die Sie mit Ihren Kontakten durchführen, zu speichern, um die Verkaufs- und Marketingmaßnahmen überblicken zu können, die Sie gegenüber Ihren Kontakten unternommen haben, um zukünftige Geschäftsaktivitäten mit ihnen zu verbessern. Die Einrichtung der Anwendung zur Aufzeichnung von Aktivitäten besteht aus diesen Aufgaben:
 
-* [Einrichten von Aktivitätenvorlagen](#setting-up-interaction-templates)
-* [Erstellen von Aktivitäten zu Kontakten oder Segmenten](#creating-interactions-on-contacts-or-segments)
+* [Einrichten von Aktivitätenvorlagen](#set-up-interaction-templates)
+* [Erstellen von Aktivitäten zu Kontakten oder Segmenten](#create-interactions)
 * [Anzeigen und Verwalten von aufgezeichneten Aktivitäten](#view-and-manage-recorded-interactions)
 
 ## <a name="set-up-interaction-templates"></a>Einrichten von Aktivitätenvorlagen

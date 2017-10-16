@@ -60,6 +60,6 @@ Sie können Saldoinformationen mithilfe von GIFI-Codes exportieren und die expor
 * Negative Zahlen werden als positive Zahl in Klammern dargestellt. Dementsprechend wird -123 als (123) dargestellt.
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)   
-[Zentrale Finanzprozesse einrichten](finance-setup-setup-finance-setup.md)
+[Finanzen](Finance.md)   
+[Zentrale Finanzprozesse einrichten](finance-setup-finance.md)
 

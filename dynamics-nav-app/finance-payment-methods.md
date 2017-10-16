@@ -21,5 +21,5 @@ Zahlungsformen legen fest, wie eine Rechnung bezahlt wird. Sie können eine beli
 Zahlungsformen sind mit Kreditoren verknüpft, um festzulegen, wie eine Rechnung von bestimmten Kreditor gezahlt werden muss.
 
 ## <a name="see-also"></a>Siehe auch
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 

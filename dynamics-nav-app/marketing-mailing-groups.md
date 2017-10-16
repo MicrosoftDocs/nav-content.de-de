@@ -18,7 +18,7 @@ ms.lasthandoff: 06/26/2017
 # <a name="set-up-mailing-groups-for-contacts"></a>Einrichten von Verteilern für Kontakte
 Verteiler werden verwendet, um Kontaktgruppen zu identifizieren, die dieselben Informationen erhalten sollen. Sie können z. B. einen Verteiler für die Kontakte erstellen, denen Sie eine Benachrichtigung über einen Büroumzug schicken möchten.
 
-Die Nutzung von Verteilern zu Kontakten ist ein zwei Schritte umfassender Prozess. Zuerst definieren Sie den Verteilercode. Sie müssen diesen Schritt nur einmal für jeden Verteiler ausführen. Sobald Sie einen Verteilercode haben, können Sie den Code zu den Kontaktunternehmen zuweisen.
+Die Nutzung von Verteilern zu Kontakten ist ein zwei Schritte umfassender Prozess. Zuerst definieren Sie den Verteilercode. Sie müssen diesen Schritt nur einmal für jeden Verteiler ausführen. Sobald Sie einen Verteilercode haben, können Sie den Code zu dem Unternehmenskontakt zuweisen.
 
 ## <a name="define-a-mailing-group-code"></a>Definieren eines Verteilercodes
 Der Verteilercode definiert die Art oder die Kategorie der Gruppe, z. B. UMZUG für einen Büroumzug, oder GESCHENK für ein Geburtstagsgeschenk. Sie können mehrere Branchencodes haben. Um die Branchen zu definieren, verwenden Sie das **Verteiler**-Fenster.
@@ -38,6 +38,6 @@ Die Anzahl der dem Kontakt zugeordneten Verteiler wird im Feld **Anzahl Verteile
 Sobald Sie Ihren Kontakten Verteiler zugeordnet haben, können Sie diese Informationen verwenden, um Kontakte für Ihre Segmente auszuwählen. Weitere Informationen finden Sie unter [Vorgehensweise: Hinzufügen von Kontakten zu Segmenten](marketing-add-contact-segment.md).
 
 ##<a name="see-also"></a>Siehe auch
-[Erstellen von Kontaktunternehmen](marketing-create-contact-companies.md)  
-[Anlegen von Kontaktpersonen](marketing-create-contact-persons.md)  
+[Erstellen von Unternehmenskontakten](marketing-create-contact-companies.md)  
+[Anlegen von Personenkontakten](marketing-create-contact-persons.md)  
 

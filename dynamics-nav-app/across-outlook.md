@@ -44,7 +44,7 @@ Im Dokumentenverknüpfungs-Add-In können Sie genauso Vorgänge für den Beleg a
 
 ## <a name="see-also"></a>Siehe auch
 [Willkommen bei Dynamics NAV](across-get-started.md)  
-[Finanzen](finance-setup.md)  
+[Finanzen](Finance.md)  
 [Verkauf verwalten](sales-manage-sales.md)  
 [Einkauf verwalten](purchasing-manage-purchasing.md)  
 

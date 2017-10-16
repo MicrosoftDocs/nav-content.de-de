@@ -26,7 +26,7 @@ Eine separate Reihe von Aufgaben, die sich auf das Erstellen von Debitorenmaster
 
 Die periodische Aktivität zur Erstellung der Debitorenkarten für neue Debitoren wird im Abschnitt "Verkäufe verwalten" behandelt. Weitere Informationen finden Sie unter [Vorgehensweise: Einrichten neuer Debitoren](sales-how-register-new-customers.md).
 
-Einrichten von finanzbezogenen Verkäufen wie Zahlungsformen und Währungen werden im Finanzsetupabschnitt behandelt. Weitere Informationen finden Sie unter [Finanzen einrichten](finance-setup-setup-finance-setup.md).
+Einrichten von finanzbezogenen Verkäufen wie Zahlungsformen und Währungen werden im Finanzsetupabschnitt behandelt. Weitere Informationen finden Sie unter [Finanzen einrichten](finance-setup-finance.md).
 
 |Aufgabe |Siehe |
 |---|----|

@@ -29,8 +29,8 @@ Sie können vorhandene Kontakte als Debitoren, Kreditoren oder als Bankkonten er
 Die Kontaktinformationen werden von der Karte **Kontakt** auf die Karte **Bankkonto**, die Karte **Debitor** oder die Karte **Kreditor** übertragen. Sie können den einzelnen Karten spezifische Informationen, wie Fakturierungs- und Zahlungsdetails hinzufügen.
 
 ## <a name="see-also"></a>Siehe auch
-[Gewusst wie: Erstellen von neuen Kontaktunternehmen](marketing-create-contact-companies.md)  
-[Gewusst wie: Anlegen neuer Kontaktpersonen](marketing-create-contact-persons.md)  
+[Gewusst wie: Erstellen von neuen Unternehmenskontakten](marketing-create-contact-companies.md)  
+[Gewusst wie: Anlegen neuer Personenkontakte](marketing-create-contact-persons.md)  
 [Einrichten von Marketing und der Kontaktverwaltung](marketing-setup-marketing.md)  
 [Synchronisieren von Kontakten mit Debitoren, Kreditoren und Bankkonten](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 [So gehts: Kontakte mit vorhandenen Debitoren, Kreditoren und Bankkonten verknüpfen](marketing-how-link-contact.md)  

@@ -35,5 +35,5 @@ Die Stapelverarbeitung **GuV Konten-Nullstellung** kann mehrmals aufgerufen werd
 ## <a name="see-also"></a>Siehe auch
 [Buchabschluss](year-close-books.md)  
 [Vorgehensweise: Buchen des Jahresabschlusspostens](year-how-post-year-end-close-entry.md)  
-[So geht's: Ein neues Geschäftsjahr eröffnen](finance-setup-how-open-new-fiscal-year.md)
+[So geht's: Ein neues Geschäftsjahr eröffnen](finance-how-open-new-fiscal-year.md)
 
