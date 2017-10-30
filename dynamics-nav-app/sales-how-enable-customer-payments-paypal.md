@@ -8,11 +8,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a2268d8454af761c40b11d89b01778a3f92090fb
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 15f30a03c3e7ccc865ef527a707794c2c6428b2f
 ms.contentlocale: de-de
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -26,7 +26,7 @@ Um Debitorenzahlungen durch PayPal zu aktivieren, müssen Sie Folgendes tun:
 1. PayPal Payments Standard als Zahlungsservice im Fenster **Zahlungs-Service** einrichten.
 2. PayPal Payments Standard im Feld **Zahlungsverkehr** im betreffenden Verkaufsbeleg auswählen.
 
-Der PayPal Payments Standard Service wird als eine Erweiterung im Dynamics NAV eingerichtet und ist bereit, aktiviert zu werden. Weitere Informationen finden Sie unter [Anpassen von Dynamics NAV mithilfe von Erweiterungen ](ui-extensions.md).
+Der Paypal-Zahlungsstandard-Service wird als eine Erweiterung im Dynamics NAV eingerichtet und ist bereit, aktiviert zu werden. Weitere Informationen finden Sie unter [Anpassen von Dynamics NAV](ui-extensions.md) mithilfe der Erweiterungen .
 
 ## <a name="to-enable-the-paypal-payments-standard-service"></a>Zur Aktivierung des PayPal Payments Standard Service
 1. Wählen Sie in der rechten oberen Ecke das Symbol **Nach Seite oder Bericht suchen** aus und geben Sie **Zahlungsverkehr** ein. Wählen Sie dann den zugehörigen Link aus.  
@@ -47,7 +47,7 @@ Der PayPal Payments Standard Service wird als eine Erweiterung im Dynamics NAV e
 **Hinweis**: Das Feld **Zahlungsverkehr** ist nur sichtbar, wenn der PayPal Payments Standard Service ausgeführt wird.   
 
 ## <a name="see-also"></a>Siehe auch  
-[Auftrag einrichten](sales-setup-sales.md)  
+[Verkauf einrichten](sales-setup-sales.md)  
 [Verkauf verwalten](sales-manage-sales.md)  
-[Anpassen des Dynamics NAV mithilfe der Erweiterungen](ui-extensions.md)
+[Anpassen Dynamics NAV Erweiterungen nutzen](ui-extensions.md)
 

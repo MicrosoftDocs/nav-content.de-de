@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV 2017 Einrichtung
+Microsoft Dynamics NAV 2017-Einrichtung
