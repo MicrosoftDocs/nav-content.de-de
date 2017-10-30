@@ -1,1 +1,1 @@
-<span data-ttu-id="437f9-101">Entwicklungsumgebung</span><span class="sxs-lookup"><span data-stu-id="437f9-101">development environment</span></span>
+<span data-ttu-id="79e88-101">Entwicklungsumgebung</span><span class="sxs-lookup"><span data-stu-id="79e88-101">development environment</span></span>

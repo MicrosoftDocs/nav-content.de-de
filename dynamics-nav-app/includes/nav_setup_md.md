@@ -1,1 +1,1 @@
-<span data-ttu-id="3ca59-101">Microsoft Dynamics NAV 2017 Einrichtung</span><span class="sxs-lookup"><span data-stu-id="3ca59-101">Microsoft Dynamics NAV 2017 Setup</span></span>
+<span data-ttu-id="bdb85-101">Microsoft Dynamics NAV 2017-Einrichtung</span><span class="sxs-lookup"><span data-stu-id="bdb85-101">Microsoft Dynamics NAV 2017 Setup</span></span>
