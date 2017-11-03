@@ -26,7 +26,6 @@ Die folgenden Themen beschreiben die lokale Funktionalität, die nur in der deut
   [Prozess für Datenzugriff und zur Prüfbarkeit digitaler Unterlagen (GDPdU)](process-for-data-access-and-testability-of-digital-documents-gdpdu-.md)  
   [Inventurbelege](physical-inventory-documents.md)  
   [MwSt.-Abrechnung](vat-reporting.md)  
-  [Zusammenfassende Meldung](../Denmark/vat-vies-reporting.md)  
   [Währungswechselkurse](currency-exchange-rates.md)  
   [Gewusst wie: Drucken von Finanzbuchhaltungs-Setupinformationen](how-to-print-general-ledger-setup-information.md)  
   [Gewusst wie: Einrichten von Berichten für MwSt. und Intrastat](how-to-set-up-reports-for-vat-and-intrastat.md)  
