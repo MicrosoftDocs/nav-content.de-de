@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 81f5ab258a3158b5d983e704d43ec9f9db209b44
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 742bebfa7a2fabab87e643b57251db592945eda6
 ms.contentlocale: de-de
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="physical-inventory-recording---counting-physical-inventory"></a>Inventurerfassung – Inventurzählung
@@ -41,6 +41,6 @@ Durch Festlegen des Status auf "Beendet" teilen Sie der Anwendung mit, dass die 
 ## <a name="see-also"></a>Siehe auch  
  [So erstellen Sie eine physische Inventurerfassung](how-to-create-a-physical-inventory-recording.md)   
  [Gewusst wie: So schließen Sie eine Inventurerfassung ab](how-to-finish-a-physical-inventory-recording.md)   
- [So zeigen Sie doppelte Inventurauftragszeilen an](how-to-view-physical-inventory-order-lines.md)   
+ [So zeigen Sie doppelte Inventurauftragszeilen an](how-to-view-duplicate-physical-inventory-order-lines.md)   
  [Inventurauftragszeilen mit Artikelverfolgungszeilen](physical-inventory-order-lines-with-item-tracking-lines.md)
 

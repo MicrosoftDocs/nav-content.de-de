@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: cf7093a9f3d3f5727f2b54cdd1b777210c8c5e68
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: ffc983f73635c0e1f8a48e7eb17cbda87664e074
 ms.contentlocale: de-de
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="gdpdu-filter-examples"></a>GDPdU-Filterbeispiele

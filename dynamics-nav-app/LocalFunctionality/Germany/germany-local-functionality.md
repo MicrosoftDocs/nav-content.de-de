@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3e518bb999e099843f9d8190a4ffd8fd54688fd9
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 4893b7111ae1e7ab9eac70aac3b5c1bbf6ef9a1c
 ms.contentlocale: de-de
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="germany-local-functionality"></a>Lokale Funktion (Deutschland)
@@ -36,5 +36,8 @@ Die folgenden Themen beschreiben die lokale Funktionalität, die nur in der deut
   [Gewusst wie: Einbeziehen von Steuernummern von Unternehmen in Verkaufs- und Einkaufsberichte](how-to-include-company-registration-numbers-on-sales-reports-and-purchase-reports.md)  
   [Gewusst wie: Exportieren und Drucken von Intrastat-Berichten](how-to-export-and-print-intrastat-reports.md)  
   [Gewusst wie: Drucken von Verkaufsaufträgen und Bestellungen während der Stapelbuchung.](how-to-print-sales-and-purchase-orders-during-batch-posting.md)  
-  [Gewusst wie: Druck von Listenberichten für Kreditorenzahlungen](how-to-print-vendor-payments-list-reports.md)  
+  [Gewusst wie: Druck von Listenberichten für Kreditorenzahlungen](how-to-print-vendor-payments-list-reports.md)
+
+## <a name="see-also"></a>Siehe auch
+[Arbeiten mit [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)  
 

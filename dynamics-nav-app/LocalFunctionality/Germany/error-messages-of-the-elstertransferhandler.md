@@ -12,21 +12,21 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 477911758ec350aa4c1d7ba608926a1c358da303
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 434419448d45b6f82b2e9217fa61c29a6a91c151
 ms.contentlocale: de-de
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="error-messages-of-the-elstertransferhandler"></a>Fehlermeldungen des ElsterTransferHandler
 Wenn [!INCLUDE[navnow](../../includes/navnow_md.md)] Umsatzsteuervoranmeldungen übermittelt, können Fehler auftreten.  
-  
- Wenn beispielsweise die Konfigurationsdatei für die Microsoft.Dynamics.ElsterTransferHandler.dll-Assembly nicht den richtigen Anzeigenamen des öffentlichen Zertifikats enthält, gibt das ELSTER-Portal den Fehler 3400 zurück, und [!INCLUDE[navnow](../../includes/navnow_md.md)] zeigt die entsprechende Fehlermeldung an.  
-  
+
+Wenn beispielsweise die Konfigurationsdatei für die Microsoft.Dynamics.ElsterTransferHandler.dll-Assembly nicht den richtigen Anzeigenamen des öffentlichen Zertifikats enthält, gibt das ELSTER-Portal den Fehler 3400 zurück, und [!INCLUDE[navnow](../../includes/navnow_md.md)] zeigt die entsprechende Fehlermeldung an.  
+
 ## <a name="error-messages"></a>Fehlermeldungen  
- In der folgenden Tabelle sind die Fehlermeldungen aufgelistet, die das ELSTER-Portal an [!INCLUDE[navnow](../../includes/navnow_md.md)] übermittelt.  
-  
-|**Fehlernummer**|**ADD INCLUDE<!--[!INCLUDE[bp_tabledescription](../../includes/bp_tabledescription_md.md)]-->**|  
+In der folgenden Tabelle sind die Fehlermeldungen aufgelistet, die das ELSTER-Portal an [!INCLUDE[navnow](../../includes/navnow_md.md)] übermittelt.  
+
+|**Fehlernummer**|**Beschreibung**|  
 |----------------------|-------------------------------------------|  
 |1000|ELSTER kann den Absender nicht als [!INCLUDE[navnow](../../includes/navnow_md.md)] identifizieren. Die Microsoft.Dynamics.ElsterTransferHandler.dll-Assembly kann nur mit Microsoft Dynamics-Produkten verwendet werden.|  
 |2000|Es konnte beim Übermitteln von Daten keine Verbindung zu den OFD-Servern hergestellt werden. Dies kann ein Problem mit Ihrer Netzwerkverbindung sein. Prüfen Sie Ihre Netzwerkkonfiguration, oder versuchen Sie es zu einem späteren Zeitpunkt erneut.|  
@@ -48,7 +48,8 @@ Wenn [!INCLUDE[navnow](../../includes/navnow_md.md)] Umsatzsteuervoranmeldungen 
 |7000|Die Daten konnten nicht signiert werden, da das konfigurierte Zertifikat nicht zum Signieren von Daten verwendet werden kann. Sie müssen sicherstellen, dass die Einrichtung von Umsatzsteuervoranmeldungen in [!INCLUDE[navnow](../../includes/navnow_md.md)] korrekt ist.|  
 |7100|Das XML-Dokument konnte nicht signiert werden. Dies kann auf einen Mangel an Speicherplatz auf dem Computer zurückzuführen sein, oder dass das Betriebssystem den Komprimierungsprozess beendet hat.|  
 |9000|Ein Fehler ist aufgetreten, als das ELSTER-Portal versuchte, die Konfiguration des Zertifikats zu lesen. Sie müssen den Inhalt des generierten XML-Dokuments prüfen.|  
-  
+
 ## <a name="see-also"></a>Siehe auch  
  [ELSTER-Übermittlung – Übersicht](elster-transmission-overview.md)   
  [Gewusst wie: Einrichten von Umsatzsteuervoranmeldungen für ELSTER](how-to-set-up-sales-vat-advance-notifications-for-elster.md)
+
