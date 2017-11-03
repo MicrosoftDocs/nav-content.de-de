@@ -47,6 +47,5 @@ Der Bericht basiert auf Daten in der Tabelle "MwSt.-Posten".
 Sie können die Meldung auf Papier drucken oder eine XML-Datei erstellen, die Sie elektronisch an die Steuerbehörden versenden können. Weitere Informationen finden Sie unter  [BZSt-Website](http://go.microsoft.com/fwlink/?LinkId=204368).  
 
 ## <a name="see-also"></a>Siehe auch  
- [Zusammenfassende Meldung](../Denmark/vat-vies-reporting.md)   
  [MwSt.-Abrechnung](vat-reporting.md)
 
