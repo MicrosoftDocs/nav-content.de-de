@@ -54,10 +54,6 @@ In [!INCLUDE[navnow](../../includes/navnow_md.md)] können Sie festlegen, welche
 4.  Wählen Sie die Schaltfläche **OK** aus.  
 
 ## <a name="see-also"></a>Siehe auch  
- [Gewusst wie: Drucken von MwSt.-Erklärungen](../UnitedKingdom/how-to-print-vat-reports.md)   
  [Gewusst wie: Exportieren und Drucken von Intrastat-Berichten](how-to-export-and-print-intrastat-reports.md)   
- Berichtsauswahl - MwSt.   
- Berichtsauswahl - Intrastat   
- DACH-Berichtsoptionen   
- Berichtsauswahl
+ [MwSt.-Abrechnung](vat-reporting.md)
 
