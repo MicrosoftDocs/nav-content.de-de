@@ -8,13 +8,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: setup wizard
-ms.date: 08/23/2017
+ms.date: 02/11/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3162ca9bc53f862c1602f96ddf5eb7e9c7125005
+ms.sourcegitcommit: 3554bd08bf30f5faca43b4308a91f3c66e1baded
+ms.openlocfilehash: 30a9b0a3a283660359702788423811f756c94955
 ms.contentlocale: de-de
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 11/02/2017
 
 ---
 # <a name="welcome-to-included365finlongincludesd365finlongmdmd"></a>Willkommen bei [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]
@@ -39,7 +39,7 @@ Homepages verwenden ein Rollen orientiertes Design, damit Sie rasch auf Geschäf
 
 Jede Homepage bietet eine Schaltfläche **Einrichtung und Erweiterungen**. Hier haben Sie Zugriff auf eine Liste der unterstützten Einrichtung, die Ihnen dabei helfen kann, ausgewählte Bereiche rasch aufzusetzen. Wenn ein Bereich nicht durch eine unterstützte Einrichtung abgedeckt wird, wählen Sie die Aktion **Manuelle Einrichtung** aus, um auf das Einrichtungsfenster zuzugreifen, in dem Sie Einrichtungsfelder für alle Bereiche manuell ausfüllen können. Weitere Informationen finden Sie unter [Einrichten von [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
 
-| Unterstütztes Setup | Description |
+| Unterstütztes Setup | Beschreibung |
 | --- | --- |
 | Geschäftsdaten migrieren |Lässt Sie Ihre vorhandenen Firmendaten wie Debitoren, Kreditoren und Artikel aus Excel oder aus Quickbooks importieren. |
 | Meine Unternehmen einrichten |Erstellt ein neues Testunternehmen, für das Sie Daten eingeben und mit dem Sie [!INCLUDE[d365fin](includes/d365fin_md.md)] testen können. Wenn Sie die Erste-Schritte-Tour durchlaufen haben, ist dieses möglicherweise bereits **Abgeschlossen**. |
@@ -59,7 +59,6 @@ Jede Homepage bietet eine Schaltfläche **Einrichtung und Erweiterungen**. Hier 
 Denken Sie an ein Abonnement? Sie können Demomandanten einfach ändern und erstellen und arbeiten in einem Ihrer eigenen Unternehmen. Dieses ist eine tolle Art, in Richtung Abonnement hinzuarbeiten. Einrichtung für Finanzen wird bereitgestellt; Sie müssen nur die Artikel, Debitoren und Kreditoren und die Produkte oder Services, die Sie verkaufen einrichten oder importieren. Danach sind Sie bereit, Rechnungen zu buchen und intelligente Geschäfts-Tools zu verwenden, um Ihr Geschäft zu analysieren. Sie können Ihr Unternehmen während einer 30 tägigen Probezeit verwenden. Wenn Sie [!INCLUDE[d365fin](includes/d365fin_md.md)] in dieser Zeit abonnieren, steht bereits alles zur Verfügung. Sie können mit der Arbeit fortfahren, die Sie während der Testphase erledigten.  
 
 Um einen Mandanten zu erstellen und Dinge zu testen, gehen Sie zum Menü **Meine Einstellungen** in der oberen rechter Ecke und ändern Sie den Mandanten auf **Mein Unternehmen**. Melden Sie sich von [!INCLUDE[d365fin](includes/d365fin_md.md)] ab und anschließend wieder an, um die Änderungen zu übernehmen. Eine unterstützte Einrichtung gibt Ihnen die grundlegenden Informationen zu Ihrem Unternehmen. Wenn das getan wird, entdecken Sie die Homepage und suchen Sie die Aktion **Unterstützte Einrichtung**.  
-
 
 ## <a name="see-also"></a>Siehe auch
 [Arbeiten mit [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
