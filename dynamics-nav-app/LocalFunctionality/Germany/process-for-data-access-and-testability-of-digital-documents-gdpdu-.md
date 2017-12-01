@@ -3,7 +3,7 @@ title: "Prozess für Datenzugriff und zur Prüfbarkeit digitaler Unterlagen (GDP
 description: "Sie können Daten aus [!INCLUDE[navnow](../../includes/navnow_md.md)] exportieren entsprechend dem Prozess für Datenzugriff und Testbarkeit von digitalen Dokumenten (GDPdU), der auf deutschen Steuergesetzen basiert."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

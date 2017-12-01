@@ -3,7 +3,7 @@ title: "ELSTER-Übermittlung – Übersicht"
 description: "Wenn ein Benutzer eine Umsatzsteuervoranmeldung von [!INCLUDE[navnow](../../includes/navnow_md.md)] an das Onlineportal „Elektronische Steuererklärungen (ELSTER)” übermittelt, verarbeitet die Microsoft.Dynamics.ElsterTransferHandler-Assembly das Dokument und übermittelt es dann an ELSTER."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

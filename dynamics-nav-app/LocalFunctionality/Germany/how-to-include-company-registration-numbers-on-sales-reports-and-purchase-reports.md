@@ -3,7 +3,7 @@ title: 'Gewusst wie: Einbeziehen von Steuernummern von Unternehmen in Verkaufs- 
 description: "Beim Generieren von bestimmten Verkaufs- und Einkaufsberichten können Steuernummern in den Berichten gedruckt werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Erweiterte Belegverwaltung
 description: "In [!INCLUDE[navnow](../../includes/navnow_md.md)] können Belege archiviert und die Arbeit über archivierte und nicht archivierte Belege nachverfolgt werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

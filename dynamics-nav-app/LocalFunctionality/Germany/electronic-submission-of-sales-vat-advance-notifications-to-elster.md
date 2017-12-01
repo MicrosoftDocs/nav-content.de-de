@@ -3,7 +3,7 @@ title: "Elektronische Übermittlung der Umsatzsteuervoranmeldungen an ELSTER"
 description: "In [!INCLUDE[navnow](../../includes/navnow_md.md)] können Sie Steuerbelege und MwSt.-Abrechnungen, wie die Umsatzsteuervoranmeldung, an das Finanzamt elektronisch übermitteln."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

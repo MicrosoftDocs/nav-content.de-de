@@ -3,7 +3,7 @@ title: 'Vorgehensweise: Einrichten von MwSt.-Berichten'
 description: "Informationen aus verschiedenen Rechnungstypen werden verwendet, um Daten in den Ausfuhr-Listenbericht EU zu speisen. Um einen MwSt-Bericht unter dem System ELMA5 von [!INCLUDE[navnow](../../includes/navnow_md.md)] einzurichten, müssen Sie die Parameter melden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
