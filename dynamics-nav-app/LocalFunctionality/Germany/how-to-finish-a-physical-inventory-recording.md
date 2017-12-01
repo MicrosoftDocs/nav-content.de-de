@@ -3,7 +3,7 @@ title: "Gewusst wie: So schließen Sie eine Inventurerfassung ab"
 description: "Nachdem alle Daten einer Inventurerfassung vollständig eingegeben wurden, können Sie die Erfassung abschließen, indem Sie das Feld **Status** auf **Beendet** setzen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: fbe3018a01edeba7db7a5ec87f33f3e43e520d75
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2fbd7beafbf7ee6450e229bf1625134eebc2b081
 ms.contentlocale: de-de
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-finish-a-physical-inventory-recording"></a><span data-ttu-id="26d47-103">Gewusst wie: So schließen Sie eine Inventurerfassung ab</span><span class="sxs-lookup"><span data-stu-id="26d47-103">How to: Finish a Physical Inventory Recording</span></span>

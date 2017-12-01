@@ -3,7 +3,7 @@ title: 'Gewusst wie: Einbeziehen von Steuernummern von Unternehmen in Verkaufs- 
 description: "Beim Generieren von bestimmten Verkaufs- und Einkaufsberichten können Steuernummern in den Berichten gedruckt werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: f9d06f0c6a92d772c9dd456e71c7285374be3b18
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d6756b2d2bb5923e6c5c4d10a8a35fb8233f0574
 ms.contentlocale: de-de
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-include-company-registration-numbers-on-sales-reports-and-purchase-reports"></a><span data-ttu-id="c6617-103">Gewusst wie: Einbeziehen von Steuernummern von Unternehmen in Verkaufs- und Einkaufsberichte</span><span class="sxs-lookup"><span data-stu-id="c6617-103">How to: Include Company Registration Numbers on Sales Reports and Purchase Reports</span></span>

@@ -3,7 +3,7 @@ title: "Vorgehensweise beim Berechnen der verfügbaren Menge für einen Inventur
 description: "Nachdem Sie den Inventurauftrag erstellt und die Inventurauftragszeilen eingegeben haben, müssen Sie vom Programm das Feld „Erwartete Menge (Basis)” für die einzelnen Inventurauftragszeilen berechnen lassen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 9cad7667f8de8c818065d69fd9c7a3cc7f44bd43
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: de859c5ec4bfd7bb73c85222f2bfcbf4a7292800
 ms.contentlocale: de-de
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-calculate-quantity-on-hand-for-a-physical-inventory-order"></a><span data-ttu-id="3334f-103">Gewusst wie: Berechnen der verfügbaren Menge für einen Inventurauftrag</span><span class="sxs-lookup"><span data-stu-id="3334f-103">How to: Calculate Quantity On Hand for a Physical Inventory Order</span></span>

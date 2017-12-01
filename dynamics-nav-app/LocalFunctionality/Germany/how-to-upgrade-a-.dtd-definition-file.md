@@ -3,7 +3,7 @@ title: Aktualisieren Sie eine .DTD-Definitions-Datei
 description: "Sie können eine .dtd-Datei explizit validieren, nachdem Sie eine importiert haben, um ein Upgradeproblem zu adressieren. Dies ist hilfreich, wenn Sie eine vorhandene Einrichtung haben, die aktualisiert werden muss, um der aktuellen Ausgabe von [!INCLUDE[navnow](../../includes/navnow_md.md)] zu entsprechen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 876ec4196587ea49f24b2bbe28ea527466a72918
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 777e4c03ae6bd4583897024264c596dee02a1724
 ms.contentlocale: de-de
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-upgrade-a-dtd-definition-file"></a><span data-ttu-id="85bb8-104">Aktualisieren Sie eine .DTD-Definitions-Datei</span><span class="sxs-lookup"><span data-stu-id="85bb8-104">How to: Upgrade a .DTD Definition File</span></span>

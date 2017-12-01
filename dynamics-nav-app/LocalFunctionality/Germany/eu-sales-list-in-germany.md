@@ -3,7 +3,7 @@ title: Zusammenfassende Meldung in Deutschland
 description: "In Deutschland wird die deutsche zusammenfassende Meldung an das „Bundeszentralamt für Steuern” (BZSt) über das BZSt-Onlineportal mithilfe der ELMA5-Schnittstelle übermittelt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: fb18e25289f291f541672dca719c103cccbe390f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: dc971dfd962aeb860642bbf5940132242142324c
 ms.contentlocale: de-de
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="eu-sales-list-in-germany"></a><span data-ttu-id="78f58-103">Zusammenfassende Meldung in Deutschland</span><span class="sxs-lookup"><span data-stu-id="78f58-103">EU Sales List in Germany</span></span>

@@ -3,7 +3,7 @@ title: Fehlermeldungen des ElsterTransferHandler
 description: "Wenn [!INCLUDE[navnow](../../includes/navnow_md.md)] Umsatzsteuervoranmeldungen übermittelt, können Fehler auftreten."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 434419448d45b6f82b2e9217fa61c29a6a91c151
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c28eee906f329fa14cc0d3a6a9dfa05e1ba714a6
 ms.contentlocale: de-de
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="error-messages-of-the-elstertransferhandler"></a><span data-ttu-id="caf1f-103">Fehlermeldungen des ElsterTransferHandler</span><span class="sxs-lookup"><span data-stu-id="caf1f-103">Error Messages of the ElsterTransferHandler</span></span>

@@ -3,7 +3,7 @@ title: 'Gewusst wie: Exportieren von GDPdU-Daten'
 description: "Sie können Finanz- und Steuerdatenaten entsprechend dem Prozess für Datenzugriff und Testbarkeit von digitalen Dokumenten (GDPdU), der auf deutschen Steuergesetzen basiert, exportieren. Zudem können verschiedene Optionen in eine XML-Datei eingeschlossen werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: e646cc12dbfa239d50edf0fa7dda2c98db49445e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6def5a15c03b3c2329470a43550cf16af63a06c8
 ms.contentlocale: de-de
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-export-gdpdu-data"></a><span data-ttu-id="8925f-104">Gewusst wie: Exportieren von GDPdU-Daten</span><span class="sxs-lookup"><span data-stu-id="8925f-104">How to: Export GDPdU Data</span></span>

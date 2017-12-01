@@ -3,7 +3,7 @@ title: 'Gewusst wie: Einrichten von Lieferbenachrichtigungsbedingungen, -stufen 
 description: "Um Lieferbenachrichtigungen zu erstellen, müssen Sie bestimmte Einrichtungen festlegen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 4fb405fa349976473b6c83e276a2ce255d47c7da
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 29942ecec17535f35cec2663b65e2a450e3e3cc7
 ms.contentlocale: de-de
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-delivery-reminder-terms-levels-and-text"></a><span data-ttu-id="bf3b3-103">Gewusst wie: Einrichten von Lieferbenachrichtigungsbedingungen, -stufen und -text</span><span class="sxs-lookup"><span data-stu-id="bf3b3-103">How to: Set Up Delivery Reminder Terms, Levels, and Text</span></span>

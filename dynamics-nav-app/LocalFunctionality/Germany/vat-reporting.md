@@ -3,7 +3,7 @@ title: MwSt.-Abrechnung
 description: "MwSt.-Erklärungen können elektronisch übermittelt werden. Sie können eine XML-Datei generieren, elektronisch signieren, verschlüsseln und direkt an das ELSTER-Portal senden. Antworten werden im selben Schritt empfangen und verarbeitet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: d7a2bd3851bc23b8416d7c6e50eef7bec477758b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8b42e2089da4750c2cd5ca160d01f9c5e3c86e17
 ms.contentlocale: de-de
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="vat-reporting"></a><span data-ttu-id="e9627-105">MwSt.-Abrechnung</span><span class="sxs-lookup"><span data-stu-id="e9627-105">VAT Reporting</span></span>

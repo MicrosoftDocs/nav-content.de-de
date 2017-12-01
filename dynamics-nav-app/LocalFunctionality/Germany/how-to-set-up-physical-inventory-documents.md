@@ -3,7 +3,7 @@ title: 'Vorgehensweise: Einrichten von Inventurdokumenten'
 description: "Bevor Sie mit Inventurbelegen und Inventurerfassungen arbeiten können, müssen einige Eigenschaften eingerichtet werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 470e87c1b28a96b68e5952822e46b1e2d6ece7b9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6c4d0c3dfb07d953f00eb18021d80a50f8ea4b89
 ms.contentlocale: de-de
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-physical-inventory-documents"></a><span data-ttu-id="501b1-103">Vorgehensweise: Einrichten von Inventurdokumenten</span><span class="sxs-lookup"><span data-stu-id="501b1-103">How to: Set Up Physical Inventory Documents</span></span>

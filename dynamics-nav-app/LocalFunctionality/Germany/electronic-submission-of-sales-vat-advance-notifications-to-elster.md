@@ -3,7 +3,7 @@ title: "Elektronische Übermittlung der Umsatzsteuervoranmeldungen an ELSTER"
 description: "In [!INCLUDE[navnow](../../includes/navnow_md.md)] können Sie Steuerbelege und MwSt.-Abrechnungen, wie die Umsatzsteuervoranmeldung, an das Finanzamt elektronisch übermitteln."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 22ed995198fbe9887e236e0c3dba8fd9dea14a95
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f1788b14fcf7de8fb6a0bc3f42763b3e73e69dd4
 ms.contentlocale: de-de
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="electronic-submission-of-sales-vat-advance-notifications-to-elster"></a><span data-ttu-id="1c60d-103">Elektronische Übermittlung der Umsatzsteuervoranmeldungen an ELSTER</span><span class="sxs-lookup"><span data-stu-id="1c60d-103">Electronic Submission of Sales VAT Advance Notifications to ELSTER</span></span>

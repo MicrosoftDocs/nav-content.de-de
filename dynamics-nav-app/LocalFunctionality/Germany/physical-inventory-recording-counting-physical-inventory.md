@@ -3,7 +3,7 @@ title: "Inventurerfassung – Inventurzählung"
 description: "Nach dem Erstellen eines Inventurauftrags und nach der Eingabe der Inventurauftragszeilen kann die eigentliche Inventur durchgeführt werden. In diesem Zusammenhang können die Inventurerfassungsbelege verwendet werden."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 742bebfa7a2fabab87e643b57251db592945eda6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 000e9d3da4a120a65e5dc25060fa622b2bcbeca7
 ms.contentlocale: de-de
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="physical-inventory-recording---counting-physical-inventory"></a><span data-ttu-id="fd385-104">Inventurerfassung – Inventurzählung</span><span class="sxs-lookup"><span data-stu-id="fd385-104">Physical Inventory Recording - Counting Physical Inventory</span></span>

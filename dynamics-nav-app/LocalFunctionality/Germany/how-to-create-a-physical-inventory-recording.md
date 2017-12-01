@@ -3,7 +3,7 @@ title: So erstellen Sie eine physische Inventurerfassung
 description: "Nachdem Sie einen Inventurauftrag und die zugehörigen Zeilen erstellt haben, können Sie eine neue Inventurauftragserfassung für diese Inventur erstellen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: e1883112f690de4a993ad86f7c5e9899e95abc54
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 83180be4a8273876680b33912e4eea01d971005b
 ms.contentlocale: de-de
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-a-physical-inventory-recording"></a><span data-ttu-id="b1f9f-103">So erstellen Sie eine physische Inventurerfassung</span><span class="sxs-lookup"><span data-stu-id="b1f9f-103">How to: Create a Physical Inventory Recording</span></span>
