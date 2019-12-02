@@ -8,7 +8,7 @@
 ## [Nutzen von Dynamics NAV als Ihr Unternehmenspostfach in Outlook](madeira-outlook.md)
 ## [Verwenden von Dynamics NAV ohne Outlook](madeira-no-outlook.md)
 ## [Führen Ihrer Geschäftsdaten für Power BI](madeira-powerbi.md)
-## [Dynamics NAV](across-how-use-financials-data-source-powerbi.md)Financials als Power BI Datenquelle nutzen
+## [Dynamics NAV Financials als Power BI Datenquelle nutzen](across-how-use-financials-data-source-powerbi.md)
 ## [Anpassen Dynamics NAV Erweiterungen nutzen](ui-extensions.md)
 
 # Tipps und Tricks
@@ -80,7 +80,7 @@
 ### [Vorgehensweise: Erstellen von Lagerplatzinhalten](warehouse-how-to-set-up-bin-contents.md)
 ### [Vorgehensweise: Einlagerungsmethoden einrichten](warehouse-how-to-set-up-put-away-templates.md)
 ### [Vorgehensweise: Lagermitarbeiter einrichten](warehouse-how-to-set-up-warehouse-employees.md)
-### [Vorgehensweise: Lagerorte für die Verwendung von Lagerplätzen ein](warehouse-how-to-set-up-locations-to-use-bins.md)richten
+### [Vorgehensweise: Lagerorte für die Verwendung von Lagerplätzen ein richten](warehouse-how-to-set-up-locations-to-use-bins.md)
 ### [Vorgehensweise: Konvertieren vorhandener Lagerorte in Lagerorte des Lagers](warehouse-how-to-convert-existing-locations-to-warehouse-locations.md)
 ### [Vorgehensweise: Einrichten von Basislagern mit Vorgangsbereichen](warehouse-how-to-set-up-basic-warehouses-with-operations-areas.md)
 ### [Vorgehensweise: Einrichten von Artikeln und Standorten für die gesteuerte Einlagerung und Kommissionierung](warehouse-how-to-set-up-items-for-directed-put-away-and-pick.md)
@@ -267,7 +267,7 @@
 # [Planung](production-planning.md)
 ## [Info zu Planungsfunktionen](production-about-planning-functionality.md)
 ## [Vorgehensweise: Nebenvertrag-Fertigung](production-how-to-subcontract-manufacturing.md)
-## Siehe [Planung mit/ohne Lagerortcodes](production-planning-with-without-locations.md).
+## Siehe [Planung mit/ohne Lagerortcodes](production-planning-with-without-locations.md)
 ## [So wird's gemacht: Absatzplanung erstellen](production-how-to-create-a-forecast.md)
 ## [So wird's gemacht: Fertigungsaufträge aus Verkaufsaufträgen erstellen](production-how-to-create-production-orders-from-sales-orders.md)
 ## [Vorgehensweise: Projektaufträge planen](production-how-to-plan-project-orders.md)
