@@ -267,7 +267,7 @@
 # [Planung](production-planning.md)
 ## [Info zu Planungsfunktionen](production-about-planning-functionality.md)
 ## [Vorgehensweise: Nebenvertrag-Fertigung](production-how-to-subcontract-manufacturing.md)
-## Siehe [Planung mit/ohne Lagerortcodes](production-planning-with-without-locations.md)
+## [Siehe Planung mit/ohne Lagerortcodes](production-planning-with-without-locations.md)
 ## [So wird's gemacht: Absatzplanung erstellen](production-how-to-create-a-forecast.md)
 ## [So wird's gemacht: Fertigungsaufträge aus Verkaufsaufträgen erstellen](production-how-to-create-production-orders-from-sales-orders.md)
 ## [Vorgehensweise: Projektaufträge planen](production-how-to-plan-project-orders.md)
