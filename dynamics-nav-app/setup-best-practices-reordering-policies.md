@@ -27,7 +27,7 @@ Eine optimale Grundlage für die Auswahl eines Wiederbeschaffungsverfahrens ist 
 |-----|-----------------------------|----------------------------|
 |A|10 - 20|50 - 70|
 |B|20|20|
-|L|60 - 70|10 - 30|
+|C|60 - 70|10 - 30|
 
 Die ABC-Klassifizierungs besagt, dass Aufwand und Geld gespart werden können, indem Artikeln mit geringem Wert weniger kontrolliert werden, als Artikeln mit hohem Wert. Die folgenden Abbildung zeigt, welches Wiederbeschaffungsverfahren in [!INCLUDE[d365fin](includes/d365fin_md.md)] für A-, B- und C-Artikel am besten geeignet ist.
 
